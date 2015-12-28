@@ -1,18 +1,80 @@
 <!doctype html>
-<html>
+<html lang="en" ng-app="Profile_App" ng-controller="Profile_Controller">
     <head>
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900,100' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/index.css" />
-        <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.0/angular.js"></script>
         <script src="js/index.js"></script>
     </head>
     <body>
         <div id="Application">
             <div id="Header">
-                <img id="Image_Profile">
+                <img src="{{data.picture}}" id="Image_Profile">
+                <div data-html="name" id="Profile_Name">
+                    {{data.name}}
+                </div>
+                <div data-html="name" id="Profile_Title">
+                    {{data.title}}
+                </div>
+                <div data-html="name" id="Profile_Description">
+                    {{data.summary}}
+                </div>
             </div>
             <div id="Center">
-                <pre id="Content">
-                </pre>
+                <div ng-if="data.education" class="Section">
+                    <div class="Section_Title">
+                        Education
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.education">
+                        <div>{{item.name}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.projects" class="Section">
+                    <div class="Section_Title">
+                        Projects
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.projects">
+                        <div>{{item.title}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.current_companies" class="Section">
+                    <div class="Section_Title">
+                        Current Companies
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.current_companies">
+                        <div>{{item.company}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.past_companies" class="Section">
+                    <div class="Section_Title">
+                        Past Companies
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.past_companies">
+                        <div>{{item.company}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.websites" class="Section">
+                    <div class="Section_Title">
+                        Websites
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.websites">
+                    </div>
+                </div>
+                <div ng-if="data.languages" class="Section">
+                    <div class="Section_Title">
+                        Languages
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.languages">
+                    </div>
+                </div>
+                <div ng-if="data.skills" class="Section">
+                    <div class="Section_Title">
+                        Skills
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.skills">
+                        <div>{{item}}</div>
+                    </div>
+                </div>
             </div>
             <div id="Footer">
             </div>
