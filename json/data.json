@@ -1,441 +1,449 @@
 {
-    "certifications": [],
-    "country": "Mexico",
-    "current_companies": [
-        {
-            "company": "Globalizer",
-            "company_size": "1-10 employees",
-            "duration": "6 months",
-            "end_date": "Present",
-            "founded": "2015",
-            "industry": "Consumer Goods",
-            "linkedin_company_url": "https://www.linkedin.com/company/globalizer?trk=ppro_cprof",
-            "start_date": "2015-07-01",
-            "title": "CTO & Co-founder",
-            "type": "Sole Proprietorship",
-            "url": "http://globalizer.io/",
-            "website": "http://globalizer.io/"
-        },
-        {
-            "company": "ComproPago",
-            "company_size": "1-10 employees",
-            "duration": "2 years 8 months",
-            "end_date": "Present",
-            "founded": "2013",
-            "industry": "Financial Services",
-            "linkedin_company_url": "https://www.linkedin.com/company/compropago?trk=ppro_cprof",
-            "start_date": "2013-05-01",
-            "title": "Cofounder",
-            "type": "Sole Proprietorship",
-            "url": "http://www.compropago.com",
-            "website": "http://www.compropago.com"
-        },
-        {
-            "company": "HolaGus",
-            "company_size": "11-50 employees",
-            "duration": "4 months",
-            "end_date": "Present",
-            "founded": "2015",
-            "industry": "Internet",
-            "linkedin_company_url": "https://www.linkedin.com/company/gus-servicios-tecnologicos?trk=ppro_cprof",
-            "start_date": "2015-09-01",
-            "title": "CTO",
-            "type": "Privately Held",
-            "url": "http://www.holagus.com",
-            "website": "http://www.holagus.com"
-        },
-        {
-            "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States",
-            "company": "Google",
-            "company_size": "10,001+ employees",
-            "duration": "3 months",
-            "end_date": "Present",
-            "founded": "1998",
-            "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
-            "industry": "Internet",
-            "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
-            "start_date": "2015-10-01",
-            "title": "Technical Solutions Specialist",
-            "type": "Public Company",
-            "url": "http://www.google.com",
-            "website": "http://www.google.com"
-        },
-        {
-            "address": "PO Box 6201  Morgantown, WV 26506 United States",
-            "company": "West Virginia University",
-            "company_size": "5001-10,000 employees",
-            "duration": "2 months",
-            "end_date": "Present",
-            "founded": "1867",
-            "headquarters": "PO Box 6201\n\nMorgantown,\nWV\n26506\nUnited States",
-            "industry": "Higher Education",
-            "linkedin_company_url": "https://www.linkedin.com/company/west-virginia-university?trk=ppro_cprof",
-            "start_date": "2015-11-01",
-            "title": "Research Scholar",
-            "type": "Educational Institution",
-            "url": "http://www.wvu.edu",
-            "website": "http://www.wvu.edu"
-        }
-    ],
-    "education": [
-        {
-            "degree": null,
-            "description": "Doctor of Philosophy (Ph.D.), Computer Science, Research Scholar",
-            "end_date": "2019",
-            "major": null,
-            "name": "West Virginia University",
-            "period": "2015 \u2013 2019",
-            "start_date": "2015"
-        },
-        {
-            "degree": null,
-            "description": "Master of Innovation and Technologicar Entrepeneurship, Innovation",
-            "end_date": "2014",
-            "major": null,
-            "name": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
-            "period": "2013 \u2013 2014",
-            "start_date": "2013"
-        },
-        {
-            "degree": null,
-            "description": "Master of Business Administration (MBA), Direcci\u00f3n de Empresas",
-            "end_date": "2013",
-            "major": null,
-            "name": "Universidad del Valle de M\u00e9xico",
-            "period": "2012 \u2013 2013",
-            "start_date": "2012"
-        },
-        {
-            "degree": null,
-            "description": "Licentiate degree, Systems Engineering",
-            "end_date": "2011",
-            "major": null,
-            "name": "Universidad del Valle de M\u00e9xico",
-            "period": "2008 \u2013 2011",
-            "start_date": "2008"
-        },
-        {
-            "degree": null,
-            "description": "Licentiate degree, Computer Software Engineering",
-            "end_date": "2008",
-            "major": null,
-            "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
-            "period": "2002 \u2013 2008",
-            "start_date": "2002"
-        }
-    ],
-    "first_name": "Carlos",
-    "groups": [
-        {
-            "link": "https://www.linkedin.com/groups?gid=3905066&trk=prof-groups-membership-name",
-            "name": "Reuniones de Networking Estrat\u00e9gico"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=4050718&trk=prof-groups-membership-name",
-            "name": "RECURSOS HUMANOS M\u00c9XICO AERHBB"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=3850030&trk=prof-groups-membership-name",
-            "name": "PR Digital M\u00e9xico"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=7483690&trk=prof-groups-membership-name",
-            "name": "Profesionales en Tecnolog\u00eda M\u00e9xico"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=2120377&trk=prof-groups-membership-name",
-            "name": "Xooglers & Googlers - Alphabet and Google Alumni & Employees"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=1496687&trk=prof-groups-membership-name",
-            "name": "ATRACCION DE TALENTO"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=1076057&trk=prof-groups-membership-name",
-            "name": "Empleos de TI M\u00e9xico - Ofertas de trabajo para Perfiles de Tecnolog\u00eda"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=40717&trk=prof-groups-membership-name",
-            "name": ".NET People"
-        },
-        {
-            "link": "https://www.linkedin.com/groups?gid=4817204&trk=prof-groups-membership-name",
-            "name": "Lead Overview"
-        }
-    ],
-    "industry": "Information Technology and Services",
-    "languages": [],
-    "last_name": "Toxtli",
-    "linkedin_url": "https://www.linkedin.com/in/carlostoxtli",
-    "location": "Mexico City Area",
-    "name": "Carlos Toxtli",
-    "number_of_connections": "500+",
-    "organizations": [],
-    "past_companies": [
-        {
-            "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States",
-            "company": "Google",
-            "company_size": "10,001+ employees",
-            "duration": "1 year 6 months",
-            "founded": "1998",
-            "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
-            "industry": "Internet",
-            "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
-            "start_date": "2015-06-01",
-            "title": "Technical Program Manager",
-            "type": "Public Company",
-            "url": "http://www.google.com",
-            "website": "http://www.google.com"
-        },
-        {
-            "address": "UN Headquarters  New York, NY 10017 United States",
-            "company": "United Nations",
-            "company_size": "10,001+ employees",
-            "description": "Mantenimiento de servidoresRedesSeguridadDesarrollo de aplicaciones webMonitoreo.An\u00e1lisis de tr\u00e1ficoDesarrollo de p\u00e1ginas web.",
-            "duration": "2 years 1 month",
-            "founded": "1945",
-            "headquarters": "UN Headquarters\n\nNew York,\nNY\n10017\nUnited States",
-            "industry": "International Affairs",
-            "linkedin_company_url": "https://www.linkedin.com/company/united-nations?trk=ppro_cprof",
-            "start_date": "2013-08-02",
-            "title": "Webmaster",
-            "type": "Nonprofit",
-            "url": "http://www.un.org",
-            "website": "http://www.un.org"
-        },
-        {
-            "company": "Aztek Technologies",
-            "description": "Gesti\u00f3n de sistemas y oersonal",
-            "duration": "5 years 1 month",
-            "start_date": "2011-01-05",
-            "title": "Director de Sistemas"
-        },
-        {
-            "address": "Mexico",
-            "company": "Universidad Anahuac",
-            "company_size": "501-1000 employees",
-            "description": "Desarrollo de aplicaciones webRedesServidores",
-            "duration": "3 years 1 month",
-            "founded": "1964",
-            "headquarters": "Mexico",
-            "industry": "Higher Education",
-            "linkedin_company_url": "https://www.linkedin.com/company/universidad-anahuac_50453?trk=ppro_cprof",
-            "start_date": "2005-01-03",
-            "title": "Desarrollador",
-            "type": "Educational Institution",
-            "url": "http://www.anahuac.mx",
-            "website": "http://www.anahuac.mx"
-        }
-    ],
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/09b/289/30bcd00.jpg",
-    "projects": [
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "With Abuntool you can code 75% faster.Just import a simply fillable format and we\u00b4ll give you the platforms code.It\u00b4s fast, it\u00b4s simple, it\u00b4s Abuntool.",
-            "end_date": null,
-            "link": "http://www.abuntool.com/",
-            "start_date": null,
-            "title": "Abuntool"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "Expr\u00e9sate, ser\u00e1s escuchadoConoce las ventajas\u00bfCuantas veces te has quedado con un disgusto? ahora es el momento de expresarlo, todo aquello que no apruebes dejalo saber que el mundo se tiene que enterar.Es nuestra labor informar lo que no esta bien para que se mejore. Tu solo expr\u00e9salo nosotros nos encargamos del resto, lo har\u00e9mos llegar a quien sea correspondiente para darle soluci\u00f3n.Compartelo con tus amigos para que poco a poco entre todos logremos cambiar lo que no esta bien.",
-            "end_date": null,
-            "link": "http://www.disliket.tk/",
-            "start_date": null,
-            "title": "Disliket"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "Oneeby is the optimized communication tool, that helps you saving your time and getting faster, easier and more effective communication .Better Communication!",
-            "end_date": null,
-            "link": "http://www.oneeby.tk/",
-            "start_date": null,
-            "title": "Oneeby"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "\u00a1SENSORES 3D APLICADOS AL APRENDIZAJE!Interaculta es la plataforma en la que aprendes haciendo las cosas, guiado por los m\u00e1ximos exponentes y compartiendo los momentos mas emocionantes con el mundo. De esta manera se incrementa de forma importante la afluencia a los centros culturales, as\u00ed como el aprendizaje de los asistentes gracias a la \u00faltima tecnolog\u00eda mediante interfaces naturales de usuario",
-            "end_date": null,
-            "link": "http://www.interaculta.com/",
-            "start_date": null,
-            "title": "Interaculta"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "Pagos entre persona y persona en la gran mayor\u00eda de los establecimientos. Diversifica tus tipos de pago que aceptas. Ten tu propio portal de pagos para que tu cliente pueda pagarte donde mas le acomode.",
-            "end_date": null,
-            "link": "http://www.comproypago.com/",
-            "start_date": null,
-            "title": "Compro y Pago"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "Fit challenge is a fun gamified application that helps improve your habits, competing with your friends.",
-            "end_date": null,
-            "link": "http://fitchallenge.co/",
-            "start_date": null,
-            "title": "Fit Challenge"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "Curriculum Vitae & Resume optimized, shareable and fancy generator.Optimized & fancy Curriculum Vitae Instantly!A boring and plain CV doesn't reflect our creativity, the rules are changing, we are in a real competitive world where you must be pratical and effective. We provide you an amazing tool to stand out from the rest and tell the world that you're the one.Download and share on internet or in a card!Your curriculum will be avaiable to view and share with your friends in your personal profile page with more than one view if you decide who can see what. We geberate you presentation cards with your curriculum as a qr code.Tons of templates!Formalt and cool templates are avaible, if your Cv needs to be serious you can switch to it, or if it must be more creattive you can switch on anytime.Statics in realtime, who is seeing what!You can control, in what part of your curriculum the people is more impressed, or if your curriculum is not attractive you can see when the people es leaving.Adaptable to any device!Now you can show your CV on any device on an easy reading format. you can go to everywhere with your curriculum on your pocket, and shareable in multiple ways.",
-            "end_date": null,
-            "link": "http://www.mycurriculum.tk",
-            "start_date": null,
-            "title": "MyCurriculum"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli"
-            ],
-            "description": "earch Smarter !You will never lose a cookmark again. PlusMarks uses the most advances search engine ever to find inside of the bookmark content.Just add a page to bookmark and thats all, you don\u00b4t need to tag the bookmark or write extra information, no additional software must be installed.It\u00b4s time of smart bookmarking, don\u00b4t loose again time bookmarking and searching it.PlusMarks FeaturesSearch in content !The other tools search only on the subject and not in content.No extra software !The other tools requiere extra software to sync bookmarks.Zero configuration !Te other tools requiere some rules and complex installation. ",
-            "end_date": null,
-            "link": "http://www.plusmarks.tk/",
-            "start_date": null,
-            "title": "+Marks"
-        },
-        {
-            "associates": [
-                "Carlos Toxtli",
-                "Ariadna Gomez Dessavre"
-            ],
-            "description": "",
-            "end_date": null,
-            "link": "http://globalizer.io/",
-            "start_date": null,
-            "title": "Globalizer"
-        }
-    ],
-    "recommended_visitors": [
-        {
-            "company": "HolaGus",
-            "link": "https://www.linkedin.com/in/leonardo-miron-20328762?trk=pub-pbmap",
-            "name": "Leonardo Miron",
-            "title": "CEO"
-        },
-        {
-            "link": "https://www.linkedin.com/in/jose-gabriel-islas-montero-98336336?trk=pub-pbmap",
-            "name": "Jose Gabriel Islas Montero"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/domix?trk=pub-pbmap",
-            "name": "Domingo Suarez Torres",
-            "title": "Designer and writer of Software"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/acidventure?trk=pub-pbmap",
-            "name": "J. Rodrigo Ayala Caballero",
-            "title": "Director general - ComproPago"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/ariadnagomezdessavre?trk=pub-pbmap",
-            "name": "Ariadna Gomez Dessavre",
-            "title": "CEO & Founder en Globalizer"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/daniela-merino-2381463a?trk=pub-pbmap",
-            "name": "Daniela Merino",
-            "title": "Sr Talent Attraction Consultant Mexico & LATAM"
-        },
-        {
-            "company": "Startup Mexico",
-            "link": "https://www.linkedin.com/in/marcusdantus?trk=pub-pbmap",
-            "name": "Marcus Dantus",
-            "title": "CEO"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/dalet-cabrera-291a9a6a?trk=pub-pbmap",
-            "name": "Dalet Cabrera",
-            "title": "RECLUTAMIENTO Y SELECCI\u00d3N en TECNOLOGIA GMI"
-        },
-        {
-            "company": null,
-            "link": "https://www.linkedin.com/in/lucila-escoto-50078264?trk=pub-pbmap",
-            "name": "Lucila Escoto",
-            "title": "Coordinador de Reclutamiento para PROINVER"
-        },
-        {
-            "company": "Softtek",
-            "link": "https://www.linkedin.com/in/blanca-trevino-27065735?trk=pub-pbmap",
-            "name": "Blanca Trevino",
-            "title": "President and CEO"
-        }
-    ],
-    "skills": [
-        "Software Development",
-        "HTML 5",
-        "JavaScript",
-        "CSS3",
-        "WebSockets",
-        "Google API",
-        "Facebook API",
-        "Artificial Intelligence",
-        "Android Development",
-        "iOS development",
-        "Joomla",
-        "Kinect",
-        "PHP",
-        "Java",
-        "Python",
-        "See 35+",
-        "MySQL",
-        "Oracle",
-        "Linux",
-        "C++",
-        ".NET",
-        "Security",
-        "Social Media Strategist",
-        "PL/SQL",
-        "Microsoft SQL Server",
-        "Web Design",
-        "Spring",
-        "Struts",
-        "Google Apps",
-        "Google App Engine",
-        "Blackberry",
-        "Apache",
-        "IIS",
-        "Windows Server",
-        "Ruby on Rails",
-        "PostgreSQL",
-        "Hibernate",
-        "CodeIgniter",
-        "Business Intelligence",
-        "Data Mining",
-        "Machine Learning",
-        "Agile Methodolgy",
-        "EEG",
-        "Dolby",
-        "Stereoscopic",
-        "d3.js",
-        "Node.js",
-        "Amazon Web Services (AWS)",
-        "Mobile Product Development",
-        "Computer Vision",
-        "Augmented Reality",
-        "See less"
-    ],
-    "summary": "Gratificante y siempre con buenos resultados y buena actitud",
-    "title": "CEO & CTO & Co-founder & Developer & Entrepreneur",
-    "websites": []
+  "name": "Carlos Toxtli",
+  "first_name": "Carlos",
+  "last_name": "Toxtli",
+  "title": "Senior Full Stack Developer, Bot Developer, Master of technological innovation, CTO, CEO, Entrepreneur",
+  "location": "Mexico City Area",
+  "number_of_connections": "500+",
+  "country": "Mexico",
+  "industry": "Information Technology and Services",
+  "summary": "Gratificante y siempre con buenos resultados y buena actitud",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUrAAAAJDM4YzQ2ZjUyLThhYjMtNDExYS1hZTNmLWMyY2FmN2U2OWYwMQ.jpg",
+  "projects": [
+    {
+      "title": "Abuntool",
+      "link": "http://www.abuntool.com/",
+      "start_date": null,
+      "end_date": null,
+      "description": "With Abuntool you can code 75% faster.Just import a simply fillable format and we´ll give you the platforms code.It´s fast, it´s simple, it´s Abuntool.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Disliket",
+      "link": "http://www.disliket.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Exprésate, serás escuchadoConoce las ventajas¿Cuantas veces te has quedado con un disgusto? ahora es el momento de expresarlo, todo aquello que no apruebes dejalo saber que el mundo se tiene que enterar.Es nuestra labor informar lo que no esta bien para que se mejore. Tu solo exprésalo nosotros nos encargamos del resto, lo harémos llegar a quien sea correspondiente para darle solución.Compartelo con tus amigos para que poco a poco entre todos logremos cambiar lo que no esta bien.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Oneeby",
+      "link": "http://www.oneeby.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Oneeby is the optimized communication tool, that helps you saving your time and getting faster, easier and more effective communication .Better Communication!",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Interaculta",
+      "link": "http://www.interaculta.com/",
+      "start_date": null,
+      "end_date": null,
+      "description": "¡SENSORES 3D APLICADOS AL APRENDIZAJE!Interaculta es la plataforma en la que aprendes haciendo las cosas, guiado por los máximos exponentes y compartiendo los momentos mas emocionantes con el mundo. De esta manera se incrementa de forma importante la afluencia a los centros culturales, así como el aprendizaje de los asistentes gracias a la última tecnología mediante interfaces naturales de usuario",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Compro y Pago",
+      "link": "http://www.comproypago.com/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Pagos entre persona y persona en la gran mayoría de los establecimientos. Diversifica tus tipos de pago que aceptas. Ten tu propio portal de pagos para que tu cliente pueda pagarte donde mas le acomode.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Fit Challenge",
+      "link": "http://fitchallenge.co/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Fit challenge is a fun gamified application that helps improve your habits, competing with your friends.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "MyCurriculum",
+      "link": "http://www.mycurriculum.tk",
+      "start_date": null,
+      "end_date": null,
+      "description": "Curriculum Vitae & Resume optimized, shareable and fancy generator.Optimized & fancy Curriculum Vitae Instantly!A boring and plain CV doesn't reflect our creativity, the rules are changing, we are in a real competitive world where you must be pratical and effective. We provide you an amazing tool to stand out from the rest and tell the world that you're the one.Download and share on internet or in a card!Your curriculum will be avaiable to view and share with your friends in your personal profile page with more than one view if you decide who can see what. We geberate you presentation cards with your curriculum as a qr code.Tons of templates!Formalt and cool templates are avaible, if your Cv needs to be serious you can switch to it, or if it must be more creattive you can switch on anytime.Statics in realtime, who is seeing what!You can control, in what part of your curriculum the people is more impressed, or if your curriculum is not attractive you can see when the people es leaving.Adaptable to any device!Now you can show your CV on any device on an easy reading format. you can go to everywhere with your curriculum on your pocket, and shareable in multiple ways.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "+Marks",
+      "link": "http://www.plusmarks.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "earch Smarter !You will never lose a cookmark again. PlusMarks uses the most advances search engine ever to find inside of the bookmark content.Just add a page to bookmark and thats all, you don´t need to tag the bookmark or write extra information, no additional software must be installed.It´s time of smart bookmarking, don´t loose again time bookmarking and searching it.PlusMarks FeaturesSearch in content !The other tools search only on the subject and not in content.No extra software !The other tools requiere extra software to sync bookmarks.Zero configuration !Te other tools requiere some rules and complex installation. ",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Globalizer",
+      "link": "http://globalizer.io/",
+      "start_date": null,
+      "end_date": null,
+      "description": "",
+      "associates": [
+        "Carlos Toxtli",
+        "Ariadna Gomez Dessavre"
+      ]
+    }
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/carlostoxtli",
+  "education": [
+    {
+      "name": "West Virginia University",
+      "description": "Doctor of Philosophy (Ph.D.), Computer Science, Research Scholar",
+      "degree": null,
+      "major": null,
+      "period": "2015 – 2019",
+      "start_date": "2015",
+      "end_date": "2019"
+    },
+    {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "description": "Master of Innovation and Technologicar Entrepeneurship, Innovation",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2014",
+      "start_date": "2013",
+      "end_date": "2014"
+    },
+    {
+      "name": "Universidad del Valle de México",
+      "description": "Master of Business Administration (MBA), Dirección de Empresas",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2013",
+      "start_date": "2012",
+      "end_date": "2013"
+    },
+    {
+      "name": "Universidad del Valle de México",
+      "description": "Licentiate degree, Systems Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2011",
+      "start_date": "2008",
+      "end_date": "2011"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de México",
+      "description": "Licentiate degree, Computer Software Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2002 – 2008",
+      "start_date": "2002",
+      "end_date": "2008"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Reuniones de Networking Estratégico",
+      "link": "https://www.linkedin.com/groups?gid=3905066&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "RECURSOS HUMANOS MÉXICO AERHBB",
+      "link": "https://www.linkedin.com/groups?gid=4050718&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "PR Digital México",
+      "link": "https://www.linkedin.com/groups?gid=3850030&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Profesionales en Tecnología México",
+      "link": "https://www.linkedin.com/groups?gid=7483690&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+      "link": "https://www.linkedin.com/groups?gid=2120377&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "ATRACCION DE TALENTO",
+      "link": "https://www.linkedin.com/groups?gid=1496687&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Empleos de TI México - Ofertas de trabajo para Perfiles de Tecnología",
+      "link": "https://www.linkedin.com/groups?gid=1076057&trk=prof-groups-membership-name"
+    },
+    {
+      "name": ".NET People",
+      "link": "https://www.linkedin.com/groups?gid=40717&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Lead Overview",
+      "link": "https://www.linkedin.com/groups?gid=4817204&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Software Development",
+    "HTML 5",
+    "JavaScript",
+    "CSS3",
+    "WebSockets",
+    "Google API",
+    "Facebook API",
+    "Artificial Intelligence",
+    "Android Development",
+    "iOS development",
+    "Joomla",
+    "Kinect",
+    "PHP",
+    "Java",
+    "Python",
+    "See 35+",
+    "MySQL",
+    "Oracle",
+    "Linux",
+    "C++",
+    ".NET",
+    "Security",
+    "Social Media Strategist",
+    "PL/SQL",
+    "Microsoft SQL Server",
+    "Web Design",
+    "Spring",
+    "Struts",
+    "Google Apps",
+    "Google App Engine",
+    "Blackberry",
+    "Apache",
+    "IIS",
+    "Windows Server",
+    "Ruby on Rails",
+    "PostgreSQL",
+    "Hibernate",
+    "CodeIgniter",
+    "Business Intelligence",
+    "Data Mining",
+    "Machine Learning",
+    "Agile Methodolgy",
+    "EEG",
+    "Dolby",
+    "Stereoscopic",
+    "d3.js",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "Mobile Product Development",
+    "Computer Vision",
+    "Augmented Reality",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Technical Program Manager",
+      "company": "Google",
+      "duration": "1 year 6 months",
+      "start_date": "2015-06-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
+      "url": "http://www.google.com",
+      "website": "http://www.google.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
+    },
+    {
+      "title": "Webmaster",
+      "company": "United Nations",
+      "description": "Mantenimiento de servidoresRedesSeguridadDesarrollo de aplicaciones webMonitoreo.Análisis de tráficoDesarrollo de páginas web.",
+      "duration": "2 years 1 month",
+      "start_date": "2013-08-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/united-nations?trk=ppro_cprof",
+      "url": "http://www.un.org",
+      "website": "http://www.un.org",
+      "industry": "International Affairs",
+      "type": "Nonprofit",
+      "headquarters": "UN Headquarters\n\nNew York,\nNY\n10017\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1945",
+      "address": "UN Headquarters  New York, NY 10017 United States"
+    },
+    {
+      "title": "Director de Sistemas",
+      "company": "Aztek Technologies",
+      "description": "Gestión de sistemas y oersonal",
+      "duration": "5 years 1 month",
+      "start_date": "2011-01-05"
+    },
+    {
+      "title": "Desarrollador",
+      "company": "Universidad Anahuac",
+      "description": "Desarrollo de aplicaciones webRedesServidores",
+      "duration": "3 years 1 month",
+      "start_date": "2005-01-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/universidad-anahuac_50453?trk=ppro_cprof",
+      "url": "http://www.anahuac.mx",
+      "website": "http://www.anahuac.mx",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "Mexico",
+      "company_size": "501-1000 employees",
+      "founded": "1964",
+      "address": "Mexico"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Cofounder",
+      "company": "ComproPago",
+      "duration": "2 years 8 months",
+      "start_date": "2013-05-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/compropago?trk=ppro_cprof",
+      "url": "http://www.compropago.com",
+      "website": "http://www.compropago.com",
+      "industry": "Financial Services",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2013"
+    },
+    {
+      "title": "CTO",
+      "company": "HolaGus",
+      "duration": "4 months",
+      "start_date": "2015-09-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/gus-servicios-tecnologicos?trk=ppro_cprof",
+      "url": "http://www.holagus.com",
+      "website": "http://www.holagus.com",
+      "industry": "Internet",
+      "type": "Privately Held",
+      "company_size": "11-50 employees",
+      "founded": "2015"
+    },
+    {
+      "title": "Technical Solutions Specialist",
+      "company": "Google",
+      "duration": "3 months",
+      "start_date": "2015-10-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
+      "url": "http://www.google.com",
+      "website": "http://www.google.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
+    },
+    {
+      "title": "Research Scholar",
+      "company": "West Virginia University",
+      "duration": "2 months",
+      "start_date": "2015-11-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/west-virginia-university?trk=ppro_cprof",
+      "url": "http://www.wvu.edu",
+      "website": "http://www.wvu.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "PO Box 6201\n\nMorgantown,\nWV\n26506\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "founded": "1867",
+      "address": "PO Box 6201  Morgantown, WV 26506 United States"
+    },
+    {
+      "title": "CTO & Co-founder",
+      "company": "Globalizer",
+      "duration": "6 months",
+      "start_date": "2015-07-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/globalizer?trk=ppro_cprof",
+      "url": "http://globalizer.io/",
+      "website": "http://globalizer.io/",
+      "industry": "Consumer Goods",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2015"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/leonardo-miron-20328762?trk=pub-pbmap",
+      "name": "Leonardo Miron",
+      "title": "CEO",
+      "company": "HolaGus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-gabriel-islas-montero-98336336?trk=pub-pbmap",
+      "name": "Jose Gabriel Islas Montero"
+    },
+    {
+      "link": "https://www.linkedin.com/in/domix?trk=pub-pbmap",
+      "name": "Domingo Suarez Torres",
+      "title": "Designer and writer of Software",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/acidventure?trk=pub-pbmap",
+      "name": "J. Rodrigo Ayala Caballero",
+      "title": "Director general - ComproPago",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ariadnagomezdessavre?trk=pub-pbmap",
+      "name": "Ariadna Gomez Dessavre",
+      "title": "CEO & Founder en Globalizer",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniela-merino-2381463a?trk=pub-pbmap",
+      "name": "Daniela Merino",
+      "title": "Sr Talent Attraction Consultant Mexico & LATAM",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcusdantus?trk=pub-pbmap",
+      "name": "Marcus Dantus",
+      "title": "CEO",
+      "company": "Startup Mexico"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dalet-cabrera-291a9a6a?trk=pub-pbmap",
+      "name": "Dalet Cabrera",
+      "title": "RECLUTAMIENTO Y SELECCIÓN en TECNOLOGIA GMI",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucila-escoto-50078264?trk=pub-pbmap",
+      "name": "Lucila Escoto",
+      "title": "Coordinador de Reclutamiento para PROINVER",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/blanca-trevino-27065735?trk=pub-pbmap",
+      "name": "Blanca Trevino",
+      "title": "President and CEO",
+      "company": "Softtek"
+    }
+  ]
 }
