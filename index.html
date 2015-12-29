@@ -28,7 +28,9 @@
                         Education
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.education">
-                        <div>{{item.name}}</div>
+                        <div class="Section_Main">{{item.name}}</div>
+                        <div class="Section_Field">{{item.description}}</div>
+                        <div class="Section_Field">{{item.period}}</div>
                     </div>
                 </div>
                 <div ng-if="data.projects" class="Section">
@@ -36,7 +38,9 @@
                         Projects
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.projects">
-                        <div>{{item.title}}</div>
+                        <div class="Section_Main">{{item.title}}</div>
+                        <div class="Section_Field">{{item.description}}</div>
+                        <div class="Section_Field">{{item.link}}</div>
                     </div>
                 </div>
                 <div ng-if="data.current_companies" class="Section">
@@ -44,7 +48,10 @@
                         Current Companies
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.current_companies">
-                        <div>{{item.company}}</div>
+                        <div class="Section_Main">{{item.company}}</div>
+                        <div class="Section_Field">{{item.title}}</div>
+                        <div class="Section_Field">{{item.description}}</div>
+                        <div class="Section_Field">{{item.duration}}</div>
                     </div>
                 </div>
                 <div ng-if="data.past_companies" class="Section">
@@ -52,7 +59,18 @@
                         Past Companies
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.past_companies">
-                        <div>{{item.company}}</div>
+                        <div class="Section_Main">{{item.company}}</div>
+                        <div class="Section_Field">{{item.title}}</div>
+                        <div class="Section_Field">{{item.description}}</div>
+                        <div class="Section_Field">{{item.duration}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.skills" class="Section">
+                    <div class="Section_Title">
+                        Skills
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.skills">
+                        <div class="Section_Main">{{item}}</div>
                     </div>
                 </div>
                 <div ng-if="data.websites" class="Section">
@@ -67,14 +85,6 @@
                         Languages
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.languages">
-                    </div>
-                </div>
-                <div ng-if="data.skills" class="Section">
-                    <div class="Section_Title">
-                        Skills
-                    </div>
-                    <div class="Section_Item" ng-repeat="item in data.skills">
-                        <div>{{item}}</div>
                     </div>
                 </div>
             </div>

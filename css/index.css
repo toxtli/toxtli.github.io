@@ -93,6 +93,14 @@ html, body {
 
 .Section_Item {
 	margin: 20px;
-	width: calc(100% - 40px);
+	width: calc(100% - 60px);
+	padding: 10px;
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.Section_Main {
+	font-weight: 500;
+}
+
+.Section_Field {
 }
