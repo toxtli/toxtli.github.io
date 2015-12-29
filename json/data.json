@@ -1,146 +1,118 @@
 {
-  "name": "Rajan Vaish",
-  "first_name": "Rajan",
-  "last_name": "Vaish",
-  "title": "Postdoctoral Researcher at Stanford University",
-  "location": "San Francisco Bay Area",
+  "name": "Ariadna Gomez Dessavre",
+  "first_name": "Ariadna",
+  "last_name": "Gomez Dessavre",
+  "title": "CEO & Founder en Globalizer",
+  "location": "Del Valle Centro",
   "number_of_connections": "500+",
-  "country": "San Francisco Bay Area",
-  "industry": "Research",
-  "summary": "I do HCI, crowdsourcing, education, social and mobile computing to understand aspects associated with mobilizing the citizen crowd. I believe that by harnessing the power of citizen crowd we can achieve bigger goals which were't possible a couple of years ago. I am also interested in entrepreneurship, and passionate about ICTD research/issues.",
-  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/0a7/263/0bfb382.jpg",
+  "country": "Mexico",
+  "industry": "Marketing and Advertising",
+  "summary": "Mi objetivo principal es colaborar en una empresa de prestigio que me ofrezca la oportunidad de crecer profesionalmente; y su vez de participar activamente en la toma de decisiones para el cumplimiento de sus objetivos y estrategias organizacionales.Especialidades: Mercadotecnia, Investigación de mercado, relaciones públicas, marketing digital.",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/07a/0c0/27ea7bf.jpg",
   "projects": [
-
+    {
+      "title": "Interaculta",
+      "link": "http://ariatsukino.wix.com/ariadnagdessavre#!projects/cm8a",
+      "start_date": null,
+      "end_date": null,
+      "description": "Premio Santander a la Innovación EmpresarialDiploma como Semifinalista.​Concurso lanzado por la Institución Financiera Santander a estudiantes de licenciatura o posgrados para la creación de una Pyme que sea innovadora en concepto o procesos.  Se desarrollo un Business Plan de una Pyme enfocada a trascender la Cultura de nuevas generaciones mexicanas a través de un concepto tecnológico-innovador.",
+      "associates": [
+        "Ariadna Gomez Dessavre",
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "SOLAR NO-BREAK",
+      "link": "http://ariatsukino.wix.com/ariadnagdessavre#!projects/cm8a",
+      "start_date": null,
+      "end_date": null,
+      "description": "POSIBLEDiploma como Semifinalista.​Es un programa que busca promover la cultura del emprendimiento con alto impacto social a través de inspirar, identificar y apoyar emprendedores.",
+      "associates": [
+        "Ariadna Gomez Dessavre",
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Google #FixIT / Diseño de identidad gráfica para Campaña Online",
+      "link": "https://events.withgoogle.com/fixit/pages/bios/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Hackathon enfocado a mujeres inmersas en la tecnología para aprender, programar.https://events.withgoogle.com/fixit/pages/bios/",
+      "associates": [
+        "Ariadna Gomez Dessavre"
+      ]
+    },
+    {
+      "title": "Globalizer",
+      "link": "http://globalizer.io/",
+      "start_date": null,
+      "end_date": null,
+      "description": "",
+      "associates": [
+        "Ariadna Gomez Dessavre",
+        "Carlos Toxtli"
+      ]
+    }
   ],
-  "linkedin_url": "https://www.linkedin.com/in/rajanvaish",
+  "linkedin_url": "https://www.linkedin.com/in/ariadnagomezdessavre",
   "education": [
     {
-      "name": "University of California, Santa Cruz",
-      "description": "PhD, Computer Science",
+      "name": "Tecnologico de Monterrey Campus Santa Fe",
+      "description": "Diplomado en Marketing Interactivo",
       "degree": null,
       "major": null,
-      "period": "2011 – 2015",
-      "start_date": "2011",
-      "end_date": "2015"
+      "period": "2013 – 2014",
+      "start_date": "2013",
+      "end_date": "2014"
     },
     {
-      "name": "Jaypee University of Information Technology",
-      "description": "B-Tech/B.S, Computer Science",
+      "name": "Universidad Anáhuac",
+      "description": "Licenciado",
       "degree": null,
       "major": null,
-      "period": "2005 – 2009",
-      "start_date": "2005",
-      "end_date": "2009"
-    },
-    {
-      "name": "La Martiniere College, Lucknow",
-      "description": "10+2, PCM",
-      "degree": null,
-      "major": null,
-      "period": "2002 – 2004",
-      "start_date": "2002",
-      "end_date": "2004"
+      "period": "2003 – 2007",
+      "start_date": "2003",
+      "end_date": "2007"
     }
   ],
   "groups": [
-    {
-      "name": "Human Computer Confluence",
-      "link": "https://www.linkedin.com/groups?gid=3871291&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "IBM Research",
-      "link": "https://www.linkedin.com/groups?gid=1201047&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Official Accenture Alumni Network",
-      "link": "https://www.linkedin.com/groups?gid=82182&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Stanford Club of India",
-      "link": "https://www.linkedin.com/groups?gid=3206072&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Fedora",
-      "link": "https://www.linkedin.com/groups?gid=49737&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "BostonCHI",
-      "link": "https://www.linkedin.com/groups?gid=1894231&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "OpenStreetMap",
-      "link": "https://www.linkedin.com/groups?gid=61515&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Global Social Venture Competition",
-      "link": "https://www.linkedin.com/groups?gid=1852686&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Students and Recent Grads",
-      "link": "https://www.linkedin.com/groups?gid=1839561&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Python Web Developers",
-      "link": "https://www.linkedin.com/groups?gid=101591&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "U.S. Government Relations, Lobbying and Public Affairs (Lobbyist - Lobbyists)",
-      "link": "https://www.linkedin.com/groups?gid=22294&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "infoDev: Growing Innovation",
-      "link": "https://www.linkedin.com/groups?gid=3209639&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Product Development and UX Leaders",
-      "link": "https://www.linkedin.com/groups?gid=6747773&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Stanford School of Engineering",
-      "link": "https://www.linkedin.com/groups?gid=126874&trk=prof-groups-membership-name"
-    }
+
   ],
   "websites": [
-    "http://rajanvaish.com",
-    "http://scholar.google.com/citations?user=TAa45rUAAAAJ&hl=en",
-    "http://institute.lanl.gov/isti/issdm/projects/#302"
+
   ],
   "languages": [
 
   ],
   "skills": [
-    "Human Computation",
-    "Human-computer Interaction",
-    "Assistive Technology",
-    "Software Engineering",
-    "Research",
-    "Start-ups",
-    "Analysis",
-    "Computer Science",
-    "Crowdsourcing",
-    "User Experience",
-    "Human Factors",
-    "Social Entrepreneurship",
-    "Ubiquitous Computing",
-    "Technology In Education",
-    "Healthcare Technology",
-    "See 16+",
-    "Microtasking",
-    "ICTD",
-    "HCI4D",
-    "ICT4D",
-    "HCID",
-    "Social Computing",
-    "Human Computer Interaction",
-    "C",
-    "Artificial Intelligence",
-    "Entrepreneurship",
-    "Distributed Systems",
-    "Data Mining",
-    "Python",
-    "Machine Learning",
-    "Medical Technology",
-    "C++",
+    "Emprendedora",
+    "Proactiva",
+    "Lider",
+    "Negotiation",
+    "Marketing Strategy",
+    "Team Leadership",
+    "Public Relations",
+    "Business Strategy",
+    "Mercadotecnia",
+    "Marketing digital",
+    "Planificación estratégica",
+    "Publicidad",
+    "Mercadotecnia en medios sociales",
+    "Redes sociales",
+    "Ventas",
+    "See 12+",
+    "Estrategia empresarial",
+    "Estrategia de mercadotecnia",
+    "Publicidad en Internet",
+    "Liderazgo de equipos",
+    "Negociación",
+    "Relaciones públicas",
+    "Strategic Planning",
+    "Administración y dirección de empresas",
+    "Comunicaciones de marketing",
+    "Marketing Communications",
+    "Advertising",
+    "Social Media",
     "See less"
   ],
   "certifications": [
@@ -150,306 +122,70 @@
 
   ],
   "past_companies": [
-    {
-      "title": "Visiting Researcher/Collaborator",
-      "company": "Stanford University",
-      "description": "Group link: http://hci.stanford.edu/Stanford CS home link: http://stanford.edu/~rvaishStanford HCI Github: https://github.com/StanfordHCI?tab=membersSpent most of my time in grad school working with Prof. Michael Bernstein at Stanford. Primarily, I worked on Twitch Crowdsourcing project: www.twitch.stanford.edu; and continuing collaboration on the Crowd Research initiative: crowdresearch.stanford.edu, aspiringresearchers.soe.ucsc.edu.",
-      "duration": "2 years 10 months",
-      "start_date": "2015-12-02",
-      "linkedin_company_url": "https://www.linkedin.com/company/stanford-university?trk=ppro_cprof",
-      "url": "http://www.stanford.edu/",
-      "website": "http://www.stanford.edu/",
-      "industry": "Higher Education",
-      "type": "Educational Institution",
-      "headquarters": "450 Serra Mall\n\nStanford,\nCA\n94305\nUnited States",
-      "company_size": "5001-10,000 employees",
-      "address": "450 Serra Mall  Stanford, CA 94305 United States"
-    },
-    {
-      "title": "Graduate Student Researcher",
-      "company": "Los Alamos National Laboratory",
-      "description": "Worked with/under LANL as part of my RAship at the University of California Santa Cruz.Project link: http://institute.lanl.gov/isti/issdm/projects/#302",
-      "duration": "3 years 9 months",
-      "start_date": "2015-12-03",
-      "linkedin_company_url": "https://www.linkedin.com/company/los-alamos-national-laboratory?trk=ppro_cprof",
-      "url": "http://www.lanl.gov",
-      "website": "http://www.lanl.gov",
-      "industry": "Research",
-      "type": "Government Agency",
-      "headquarters": "P.O. Box 1663\n\nLos Alamos,\nNM\n87545\nUnited States",
-      "company_size": "5001-10,000 employees",
-      "founded": "1943",
-      "address": "P.O. Box 1663  Los Alamos, NM 87545 United States"
-    },
-    {
-      "title": "Graduate Student Researcher",
-      "company": "UC Santa Cruz",
-      "description": "Worked on multiple crowdsourcing projects as a PhD student with Prof. James Davis.",
-      "duration": "4 years 4 months",
-      "start_date": "2015-12-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/uc-santa-cruz?trk=ppro_cprof",
-      "url": "http://ucsc.edu",
-      "website": "http://ucsc.edu",
-      "industry": "Higher Education",
-      "type": "Educational Institution",
-      "headquarters": "1156 High Street\n\nSanta Cruz,\nCA\n\nUnited States",
-      "company_size": "1001-5000 employees",
-      "founded": "1965",
-      "address": "1156 High Street  Santa Cruz, CA  United States"
-    },
-    {
-      "title": "Research Intern",
-      "company": "Microsoft Research",
-      "description": "Worked with Andrés Monroy-Hernández and Jaime Teevan on crowdsourcing the writing process, specifically looking into crowd-powered tone improving system for emails.",
-      "duration": "4 months",
-      "start_date": "2015-09-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/microsoft?trk=ppro_cprof",
-      "url": "http://www.microsoft.com/",
-      "website": "http://www.microsoft.com/",
-      "industry": "Computer Software",
-      "type": "Public Company",
-      "headquarters": "1 Microsoft Way\n\nRedmond,\nWA\n98052\nUnited States",
-      "company_size": "10,001+ employees",
-      "founded": "1975",
-      "address": "1 Microsoft Way  Redmond, WA 98052 United States"
-    },
-    {
-      "title": "Visiting Researcher",
-      "company": "PARC",
-      "description": "Continued collaboration post internship at PARC, with Victoria Bellotti.",
-      "duration": "10 months",
-      "start_date": "2015-06-10",
-      "linkedin_company_url": "https://www.linkedin.com/company/parcinc?trk=ppro_cprof",
-      "url": "http://www.parc.com/",
-      "website": "http://www.parc.com/",
-      "industry": "Research",
-      "type": "Privately Held",
-      "headquarters": "3333 Coyote Hill Road\n\nPalo Alto,\nCalifornia\n94304\nUnited States",
-      "company_size": "201-500 employees",
-      "founded": "1970",
-      "address": "3333 Coyote Hill Road  Palo Alto, California 94304 United States"
-    },
-    {
-      "title": "Research Intern",
-      "company": "PARC",
-      "description": "Conducted research in the areas of peer-to-peer services, time banking, viral marketing and spread of information, and crowdsourcing with Victoria Bellotti (Research Fellow).",
-      "duration": "4 months",
-      "start_date": "2014-09-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/parcinc?trk=ppro_cprof",
-      "url": "http://www.parc.com/",
-      "website": "http://www.parc.com/",
-      "industry": "Research",
-      "type": "Privately Held",
-      "headquarters": "3333 Coyote Hill Road\n\nPalo Alto,\nCalifornia\n94304\nUnited States",
-      "company_size": "201-500 employees",
-      "founded": "1970",
-      "address": "3333 Coyote Hill Road  Palo Alto, California 94304 United States"
-    },
-    {
-      "title": "Research Intern",
-      "company": "MobiSocial Inc.",
-      "description": "Worked with Prof. Monica Lam of Stanford Mobisocial Computing Laboratory on marketing/viral growth projects via crowdsourcing. I was working part-time.",
-      "duration": "3 months",
-      "start_date": "2014-04-03",
-      "linkedin_company_url": "https://www.linkedin.com/company/omlet-inc-?trk=ppro_cprof",
-      "url": "http://www.omlet.me",
-      "website": "http://www.omlet.me",
-      "industry": "Internet",
-      "type": "Privately Held",
-      "headquarters": "395 Page Mill Rd.\n\nPalo Alto,\nCA\n94301\nUnited States",
-      "company_size": "11-50 employees",
-      "founded": "2012",
-      "address": "395 Page Mill Rd.  Palo Alto, CA 94301 United States"
-    },
-    {
-      "title": "Research Intern",
-      "company": "IBM T. J. Watson Research Center",
-      "description": "Intern at the Collaborative User Experience (CUE) Research Group in Cambridge, MA. Worked on crowdfunding projects at IBM. Mentors: Michael Muller, Werner Geyer, David Millen.",
-      "duration": "4 months",
-      "start_date": "2013-09-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/ibm?trk=ppro_cprof",
-      "url": "http://www.ibm.com",
-      "website": "http://www.ibm.com",
-      "industry": "Information Technology and Services",
-      "type": "Public Company",
-      "headquarters": "International Business Machines Corp.\nNew Orchard Road\nArmonk, New York,\nNY\n10504\nUnited States",
-      "company_size": "10,001+ employees",
-      "address": "International Business Machines Corp. New Orchard Road Armonk, New York, NY 10504 United States"
-    },
-    {
-      "title": "Research Intern",
-      "company": "Microsoft Research",
-      "description": "Group link: http://research.microsoft.com/en-us/groups/tem/default.aspxProject: http://www.whodunitchallenge.com/Worked with Bill Thies and Ed Cutrell on exploring crowd mobilization aspects in India.",
-      "duration": "4 months",
-      "start_date": "2012-09-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/microsoft?trk=ppro_cprof",
-      "url": "http://www.microsoft.com/",
-      "website": "http://www.microsoft.com/",
-      "industry": "Computer Software",
-      "type": "Public Company",
-      "headquarters": "1 Microsoft Way\n\nRedmond,\nWA\n98052\nUnited States",
-      "company_size": "10,001+ employees",
-      "founded": "1975",
-      "address": "1 Microsoft Way  Redmond, WA 98052 United States"
-    },
-    {
-      "title": "Developer",
-      "company": "Accenture Technology Labs (R&D)",
-      "description": "Worked at Accenture Technology Labs, Bangalore (R&D wing of Accenture).",
-      "duration": "1 year 1 month",
-      "start_date": "2010-11-01",
-      "linkedin_company_url": "https://www.linkedin.com/company/accenture?trk=ppro_cprof",
-      "url": "http://www.accenture.com",
-      "website": "http://www.accenture.com",
-      "industry": "Information Technology and Services",
-      "type": "Public Company",
-      "headquarters": "Grand Canal Harbour\n\nDublin 2,\n\n\nIreland",
-      "company_size": "10,001+ employees",
-      "founded": "1989",
-      "address": "Grand Canal Harbour  Dublin 2,   Ireland"
-    },
-    {
-      "title": "Co- Admin for Google SoC'10",
-      "company": "OpenStreetMap Foundation",
-      "description": "Co- Administered the process of representing OSM at Google Summer of Code'10 with Dr. Graham Jones. Reviewing Student proposals and managing the program voluntarily .",
-      "duration": "6 months",
-      "start_date": "2010-08-06",
-      "linkedin_company_url": "https://www.linkedin.com/company/openstreetmap-foundation?trk=ppro_cprof",
-      "url": "http://www.osmfoundation.org/",
-      "website": "http://www.osmfoundation.org/",
-      "industry": "Computer Software",
-      "type": "Nonprofit",
-      "headquarters": "United Kingdom",
-      "company_size": "1-10 employees",
-      "address": "United Kingdom"
-    },
-    {
-      "title": "Student Developer",
-      "company": "Google",
-      "description": "Accepted as a student developer by Google under Summer of Code program to work for OpenStreetMap.org. Worked on OSM Direction tool for Visually Impaired.http://code.google.com/p/openvoicenav/",
-      "duration": "4 months",
-      "start_date": "2009-08-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
-      "url": "http://www.google.com",
-      "website": "http://www.google.com",
-      "industry": "Internet",
-      "type": "Public Company",
-      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
-      "company_size": "10,001+ employees",
-      "founded": "1998",
-      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
-    },
-    {
-      "title": "UG Researcher",
-      "company": "Jaypee University of Information Technology",
-      "description": "Worked on Simulation and Analysis of Interconnection Networks and Algorithms. Developed two new routing algorithms for Torus and X-Torus topology, papers accepted at WorldComp'09.http://rajanvaish.com/research",
-      "duration": "11 months",
-      "start_date": "2009-05-11",
-      "linkedin_company_url": "https://www.linkedin.com/company/jaypee-university-of-information-technology-waknaghat?trk=ppro_cprof",
-      "url": "http://www.juit.ac.in",
-      "website": "http://www.juit.ac.in",
-      "industry": "Education Management",
-      "type": "Nonprofit",
-      "headquarters": "173215\nIndia",
-      "company_size": "51-200 employees",
-      "address": "173215 India"
-    },
-    {
-      "title": "Developer and Strategist",
-      "company": "LetsGetThisRight.com",
-      "description": "I was a Developer, Strategist and Super Admin at LGTR. LGTR was one of the organizations, set up to coordinate the unofficial on and off line activities in support of the Presidential Campaign'08.",
-      "duration": "7 months",
-      "start_date": "2008-11-07"
-    },
-    {
-      "title": "Volunteer for The Borgen Project",
-      "company": "United Nations Volunteers",
-      "description": "Volunteered for The Borgen Project, Seattle as a web content editer.The Borgen Project is a campaign that is bringing political attention to severe poverty.http://www.borgenproject.org/http://borgenproject.blogspot.com/",
-      "duration": "2 months",
-      "start_date": "2008-10-02",
-      "linkedin_company_url": "https://www.linkedin.com/company/united-nations-volunteers?trk=ppro_cprof",
-      "url": "http://www.unv.org",
-      "website": "http://www.unv.org",
-      "industry": "Nonprofit Organization Management",
-      "type": "Nonprofit",
-      "headquarters": "Hermann-Ehlers-Strasse 10\n\nBonn,\nNRW\n53113\nGermany",
-      "company_size": "51-200 employees",
-      "founded": "1971",
-      "address": "Hermann-Ehlers-Strasse 10  Bonn, NRW 53113 Germany"
-    },
-    {
-      "title": "Intern",
-      "company": "One Laptop Per Child",
-      "description": "I interned for OLPC, during summer break of 2008 and worked on a Geography Teaching Tool, using QGIS, MapServer, OpenLayers & GeoRSS. The project won 1st prize at the 1st International Conference on Contemporary Computing at Noida, co-organized by the University of Florida.",
-      "duration": "4 months",
-      "start_date": "2008-08-04",
-      "linkedin_company_url": "https://www.linkedin.com/company/one-laptop-per-child?trk=ppro_cprof",
-      "url": "http://laptop.org",
-      "website": "http://laptop.org",
-      "industry": "Computer Hardware",
-      "type": "Nonprofit",
-      "headquarters": "One Cambridge Center, 5F\nCambridge,\nMA\n02142\nUnited States",
-      "company_size": "11-50 employees",
-      "founded": "2005",
-      "address": "One Cambridge Center, 5F Cambridge, MA 02142 United States"
-    }
+
   ],
   "current_companies": [
 
   ],
   "recommended_visitors": [
     {
-      "link": "https://www.linkedin.com/in/siddixit?trk=pub-pbmap",
-      "name": "Siddharth Dixit"
-    },
-    {
-      "link": "https://www.linkedin.com/in/dudarev?trk=pub-pbmap",
-      "name": "Artem Dudarev"
-    },
-    {
-      "link": "https://www.linkedin.com/in/camelia-simoiu-0a704414?trk=pub-pbmap",
-      "name": "Camelia Simoiu",
-      "title": "PhD Candidate",
-      "company": "Stanford University"
-    },
-    {
-      "link": "https://www.linkedin.com/in/mibernstein?trk=pub-pbmap",
-      "name": "Michael Bernstein",
-      "title": "Assistant Professor",
-      "company": "Stanford University"
-    },
-    {
-      "link": "https://www.linkedin.com/in/onenive?trk=pub-pbmap",
-      "name": "Nive Jayasekar",
-      "title": "Software Engineer",
-      "company": "Blend"
-    },
-    {
-      "link": "https://www.linkedin.com/in/aditya-parameswaran-0714b63?trk=pub-pbmap",
-      "name": "Aditya Parameswaran"
-    },
-    {
-      "link": "https://www.linkedin.com/in/singhshashank?trk=pub-pbmap",
-      "name": "Shashank Singh",
-      "title": "Entrepreneur",
+      "link": "https://www.linkedin.com/in/esmeraldaacevedo?trk=pub-pbmap",
+      "name": "Esmeralda Acevedo",
+      "title": "Bilingual Assistant",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/manisha-rana-140600a?trk=pub-pbmap",
-      "name": "Manisha Rana",
-      "title": "Assistant Manager HR",
-      "company": "ITC Limited"
+      "link": "https://www.linkedin.com/in/veronica-olea-6a6069a?trk=pub-pbmap",
+      "name": "Veronica Olea",
+      "title": "Asistente Ejecutiva Bilingue de Dirección General en Anuncios en Directorios - Seccion Amarilla-ADSA",
+      "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/anjali-ryot-83b410b?trk=pub-pbmap",
-      "name": "ANJALI RYOT",
-      "title": "Service Engineer",
-      "company": "Yahoo"
+      "link": "https://www.linkedin.com/in/carolina-s%C3%A1nchez-ram%C3%ADrez-24a33494?trk=pub-pbmap",
+      "name": "Carolina Sánchez Ramírez",
+      "title": "Marketing",
+      "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/utkarshshrivastava?trk=pub-pbmap",
-      "name": "Utkarsh Shrivastava",
-      "title": "Senior Front End Developer",
+      "link": "https://www.linkedin.com/in/carlostoxtli?trk=pub-pbmap",
+      "name": "Carlos Toxtli",
+      "title": "Senior Full Stack Developer, Bot Developer, Master of technological innovation, CTO, CEO, Entrepreneur",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariana-rivera-campos-1571aa58?trk=pub-pbmap",
+      "name": "mariana rivera campos",
+      "title": "Asistente de Dirección- Merz Pharma de México",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/m%C3%B3nica-jim%C3%A9nez-s%C3%A1nchez-7481a5a?trk=pub-pbmap",
+      "name": "Mónica Jiménez Sánchez",
+      "title": "Asistente de Dirección General en OCESA - SeiTrack",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/leslie-monta%C3%B1o-sollano-ba076624?trk=pub-pbmap",
+      "name": "Leslie Montaño Sollano",
+      "title": "Gerente Corporativo de Mercadotecnia y Publicidad en GIM / Hogares Unión",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-cruz-jaramillo-92208280?trk=pub-pbmap",
+      "name": "Rodrigo Cruz Jaramillo",
+      "title": "Jefe de Comunicación Interna en ATENTO México",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/abraham-montes-de-oca-2a503822?trk=pub-pbmap",
+      "name": "abraham montes de oca",
+      "title": "Licenciado en Mercadotecnia",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolina-mora-54895433?trk=pub-pbmap",
+      "name": "Carolina Mora",
+      "title": "--",
       "company": null
     }
   ]
