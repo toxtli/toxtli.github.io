@@ -1,45 +1,93 @@
 {
-  "name": "Ariadna Gomez Dessavre",
-  "first_name": "Ariadna",
-  "last_name": "Gomez Dessavre",
-  "title": "CEO & Founder en Globalizer",
-  "location": "Del Valle Centro",
-  "number_of_connections": "500+",
-  "country": "Mexico",
-  "industry": "Marketing and Advertising",
-  "summary": "Mi objetivo principal es colaborar en una empresa de prestigio que me ofrezca la oportunidad de crecer profesionalmente; y su vez de participar activamente en la toma de decisiones para el cumplimiento de sus objetivos y estrategias organizacionales.Especialidades: Mercadotecnia, Investigación de mercado, relaciones públicas, marketing digital.",
-  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/07a/0c0/27ea7bf.jpg",
+  "name": "Carlos Toxtli",
+  "first_name": "Carlos",
+  "last_name": "Toxtli",
+  "title": "Senior Full Stack Developer, Bot Developer, Master of technological innovation, CTO, CEO, Entrepreneur",
+  "location": "Ciudad de México y alrededores",
+  "number_of_connections": "500",
+  "country": "México",
+  "industry": "Servicios y tecnologías de la información",
+  "summary": "Gratificante y siempre con buenos resultados y buena actitud",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUrAAAAJDM4YzQ2ZjUyLThhYjMtNDExYS1hZTNmLWMyY2FmN2U2OWYwMQ.jpg",
   "projects": [
     {
+      "title": "Abuntool",
+      "link": "http://www.abuntool.com/",
+      "start_date": null,
+      "end_date": null,
+      "description": "With Abuntool you can code 75% faster.Just import a simply fillable format and we´ll give you the platforms code.It´s fast, it´s simple, it´s Abuntool.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Disliket",
+      "link": "http://www.disliket.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Exprésate, serás escuchadoConoce las ventajas¿Cuantas veces te has quedado con un disgusto? ahora es el momento de expresarlo, todo aquello que no apruebes dejalo saber que el mundo se tiene que enterar.Es nuestra labor informar lo que no esta bien para que se mejore. Tu solo exprésalo nosotros nos encargamos del resto, lo harémos llegar a quien sea correspondiente para darle solución.Compartelo con tus amigos para que poco a poco entre todos logremos cambiar lo que no esta bien.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "Oneeby",
+      "link": "http://www.oneeby.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Oneeby is the optimized communication tool, that helps you saving your time and getting faster, easier and more effective communication .Better Communication!",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
       "title": "Interaculta",
-      "link": "http://ariatsukino.wix.com/ariadnagdessavre#!projects/cm8a",
+      "link": "http://www.interaculta.com/",
       "start_date": null,
       "end_date": null,
-      "description": "Premio Santander a la Innovación EmpresarialDiploma como Semifinalista.​Concurso lanzado por la Institución Financiera Santander a estudiantes de licenciatura o posgrados para la creación de una Pyme que sea innovadora en concepto o procesos.  Se desarrollo un Business Plan de una Pyme enfocada a trascender la Cultura de nuevas generaciones mexicanas a través de un concepto tecnológico-innovador.",
+      "description": "¡SENSORES 3D APLICADOS AL APRENDIZAJE!Interaculta es la plataforma en la que aprendes haciendo las cosas, guiado por los máximos exponentes y compartiendo los momentos mas emocionantes con el mundo. De esta manera se incrementa de forma importante la afluencia a los centros culturales, así como el aprendizaje de los asistentes gracias a la última tecnología mediante interfaces naturales de usuario",
       "associates": [
-        "Ariadna Gomez Dessavre",
         "Carlos Toxtli"
       ]
     },
     {
-      "title": "SOLAR NO-BREAK",
-      "link": "http://ariatsukino.wix.com/ariadnagdessavre#!projects/cm8a",
+      "title": "Compro y Pago",
+      "link": "http://www.comproypago.com/",
       "start_date": null,
       "end_date": null,
-      "description": "POSIBLEDiploma como Semifinalista.​Es un programa que busca promover la cultura del emprendimiento con alto impacto social a través de inspirar, identificar y apoyar emprendedores.",
+      "description": "Pagos entre persona y persona en la gran mayoría de los establecimientos. Diversifica tus tipos de pago que aceptas. Ten tu propio portal de pagos para que tu cliente pueda pagarte donde mas le acomode.",
       "associates": [
-        "Ariadna Gomez Dessavre",
         "Carlos Toxtli"
       ]
     },
     {
-      "title": "Google #FixIT / Diseño de identidad gráfica para Campaña Online",
-      "link": "https://events.withgoogle.com/fixit/pages/bios/",
+      "title": "Fit Challenge",
+      "link": "http://fitchallenge.co/",
       "start_date": null,
       "end_date": null,
-      "description": "Hackathon enfocado a mujeres inmersas en la tecnología para aprender, programar.https://events.withgoogle.com/fixit/pages/bios/",
+      "description": "Fit challenge is a fun gamified application that helps improve your habits, competing with your friends.",
       "associates": [
-        "Ariadna Gomez Dessavre"
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "MyCurriculum",
+      "link": "http://www.mycurriculum.tk",
+      "start_date": null,
+      "end_date": null,
+      "description": "Curriculum Vitae & Resume optimized, shareable and fancy generator.Optimized & fancy Curriculum Vitae Instantly!A boring and plain CV doesn't reflect our creativity, the rules are changing, we are in a real competitive world where you must be pratical and effective. We provide you an amazing tool to stand out from the rest and tell the world that you're the one.Download and share on internet or in a card!Your curriculum will be avaiable to view and share with your friends in your personal profile page with more than one view if you decide who can see what. We geberate you presentation cards with your curriculum as a qr code.Tons of templates!Formalt and cool templates are avaible, if your Cv needs to be serious you can switch to it, or if it must be more creattive you can switch on anytime.Statics in realtime, who is seeing what!You can control, in what part of your curriculum the people is more impressed, or if your curriculum is not attractive you can see when the people es leaving.Adaptable to any device!Now you can show your CV on any device on an easy reading format. you can go to everywhere with your curriculum on your pocket, and shareable in multiple ways.",
+      "associates": [
+        "Carlos Toxtli"
+      ]
+    },
+    {
+      "title": "+Marks",
+      "link": "http://www.plusmarks.tk/",
+      "start_date": null,
+      "end_date": null,
+      "description": "earch Smarter !You will never lose a cookmark again. PlusMarks uses the most advances search engine ever to find inside of the bookmark content.Just add a page to bookmark and thats all, you don´t need to tag the bookmark or write extra information, no additional software must be installed.It´s time of smart bookmarking, don´t loose again time bookmarking and searching it.PlusMarks FeaturesSearch in content !The other tools search only on the subject and not in content.No extra software !The other tools requiere extra software to sync bookmarks.Zero configuration !Te other tools requiere some rules and complex installation. ",
+      "associates": [
+        "Carlos Toxtli"
       ]
     },
     {
@@ -49,16 +97,25 @@
       "end_date": null,
       "description": "",
       "associates": [
-        "Ariadna Gomez Dessavre",
-        "Carlos Toxtli"
+        "Carlos Toxtli",
+        "Ariadna Gomez Dessavre"
       ]
     }
   ],
-  "linkedin_url": "https://www.linkedin.com/in/ariadnagomezdessavre",
+  "linkedin_url": "https://mx.linkedin.com/in/carlostoxtli",
   "education": [
     {
-      "name": "Tecnologico de Monterrey Campus Santa Fe",
-      "description": "Diplomado en Marketing Interactivo",
+      "name": "West Virginia University",
+      "description": "Research Scholar, Cybersecurity, Visiting Scholar",
+      "degree": null,
+      "major": null,
+      "period": "2015 – 2019",
+      "start_date": "2015",
+      "end_date": "2019"
+    },
+    {
+      "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "description": "Master of Innovation and Technologicar Entrepeneurship, Innovation",
       "degree": null,
       "major": null,
       "period": "2013 – 2014",
@@ -66,17 +123,70 @@
       "end_date": "2014"
     },
     {
-      "name": "Universidad Anáhuac",
-      "description": "Licenciado",
+      "name": "Universidad del Valle de México",
+      "description": "Master of Business Administration (MBA), Dirección de Empresas",
       "degree": null,
       "major": null,
-      "period": "2003 – 2007",
-      "start_date": "2003",
-      "end_date": "2007"
+      "period": "2012 – 2013",
+      "start_date": "2012",
+      "end_date": "2013"
+    },
+    {
+      "name": "Universidad del Valle de México",
+      "description": "Licentiate degree, Systems Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2011",
+      "start_date": "2008",
+      "end_date": "2011"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de México",
+      "description": "Licentiate degree, Computer Software Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2002 – 2008",
+      "start_date": "2002",
+      "end_date": "2008"
     }
   ],
   "groups": [
-
+    {
+      "name": "Reuniones de Networking Estratégico",
+      "link": "https://mx.linkedin.com/groups?gid=3905066&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "RECURSOS HUMANOS MÉXICO AERHBB",
+      "link": "https://mx.linkedin.com/groups?gid=4050718&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "PR Digital México",
+      "link": "https://mx.linkedin.com/groups?gid=3850030&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Profesionales en Tecnología México",
+      "link": "https://mx.linkedin.com/groups?gid=7483690&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+      "link": "https://mx.linkedin.com/groups?gid=2120377&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "ATRACCION DE TALENTO",
+      "link": "https://mx.linkedin.com/groups?gid=1496687&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Empleos de TI México - Ofertas de trabajo para Perfiles de Tecnología",
+      "link": "https://mx.linkedin.com/groups?gid=1076057&trk=prof-groups-membership-name"
+    },
+    {
+      "name": ".NET People",
+      "link": "https://mx.linkedin.com/groups?gid=40717&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Lead Overview",
+      "link": "https://mx.linkedin.com/groups?gid=4817204&trk=prof-groups-membership-name"
+    }
   ],
   "websites": [
 
@@ -85,35 +195,58 @@
 
   ],
   "skills": [
-    "Emprendedora",
-    "Proactiva",
-    "Lider",
-    "Negotiation",
-    "Marketing Strategy",
-    "Team Leadership",
-    "Public Relations",
-    "Business Strategy",
-    "Mercadotecnia",
-    "Marketing digital",
-    "Planificación estratégica",
-    "Publicidad",
-    "Mercadotecnia en medios sociales",
-    "Redes sociales",
-    "Ventas",
-    "See 12+",
-    "Estrategia empresarial",
-    "Estrategia de mercadotecnia",
-    "Publicidad en Internet",
-    "Liderazgo de equipos",
-    "Negociación",
-    "Relaciones públicas",
-    "Strategic Planning",
-    "Administración y dirección de empresas",
-    "Comunicaciones de marketing",
-    "Marketing Communications",
-    "Advertising",
-    "Social Media",
-    "See less"
+    "Software Development",
+    "HTML 5",
+    "JavaScript",
+    "CSS3",
+    "WebSockets",
+    "Google API",
+    "Facebook API",
+    "Artificial Intelligence",
+    "Android Development",
+    "iOS development",
+    "Joomla",
+    "Kinect",
+    "PHP",
+    "Java",
+    "Python",
+    "Ver 35 más",
+    "MySQL",
+    "Oracle",
+    "Linux",
+    "C++",
+    ".NET",
+    "Security",
+    "Social Media Strategist",
+    "PL/SQL",
+    "Microsoft SQL Server",
+    "Web Design",
+    "Spring",
+    "Struts",
+    "Google Apps",
+    "Google App Engine",
+    "Blackberry",
+    "Apache",
+    "IIS",
+    "Windows Server",
+    "Ruby on Rails",
+    "PostgreSQL",
+    "Hibernate",
+    "CodeIgniter",
+    "Business Intelligence",
+    "Data Mining",
+    "Machine Learning",
+    "Agile Methodolgy",
+    "EEG",
+    "Dolby",
+    "Stereoscopic",
+    "d3.js",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "Mobile Product Development",
+    "Computer Vision",
+    "Augmented Reality",
+    "Ver menos"
   ],
   "certifications": [
 
@@ -122,71 +255,191 @@
 
   ],
   "past_companies": [
-
+    {
+      "title": "Cofounder",
+      "company": "ComproPago",
+      "duration": "2 años 8 meses",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/compropago?trk=ppro_cprof",
+      "url": "http://www.compropago.com",
+      "website": "http://www.compropago.com",
+      "industry": "Financial Services",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2013"
+    },
+    {
+      "title": "CTO",
+      "company": "HolaGus",
+      "duration": "4 meses",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/gus-servicios-tecnologicos?trk=ppro_cprof",
+      "url": "http://www.holagus.com",
+      "website": "http://www.holagus.com",
+      "industry": "Internet",
+      "type": "Privately Held",
+      "company_size": "11-50 employees",
+      "founded": "2015"
+    },
+    {
+      "title": "Technical Solutions Specialist",
+      "company": "Google",
+      "duration": "3 meses",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
+      "url": "http://www.google.com",
+      "website": "http://www.google.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
+    },
+    {
+      "title": "Research Scholar",
+      "company": "West Virginia University",
+      "duration": "2 meses",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/west-virginia-university?trk=ppro_cprof",
+      "url": "http://www.wvu.edu",
+      "website": "http://www.wvu.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "PO Box 6201\n\nMorgantown,\nWV\n26506\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "founded": "1867",
+      "address": "PO Box 6201  Morgantown, WV 26506 United States"
+    },
+    {
+      "title": "CTO & Co-founder",
+      "company": "Globalizer",
+      "duration": "6 meses",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/globalizer?trk=ppro_cprof",
+      "url": "http://globalizer.io/",
+      "website": "http://globalizer.io/",
+      "industry": "Consumer Goods",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2015"
+    },
+    {
+      "title": "Technical Program Manager",
+      "company": "Google",
+      "duration": "1 año 6 meses",
+      "start_date": "2015-06-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
+      "url": "http://www.google.com",
+      "website": "http://www.google.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
+    },
+    {
+      "title": "Webmaster",
+      "company": "United Nations",
+      "description": "Mantenimiento de servidoresRedesSeguridadDesarrollo de aplicaciones webMonitoreo.Análisis de tráficoDesarrollo de páginas web.",
+      "duration": "2 años 1 mes",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/united-nations?trk=ppro_cprof",
+      "url": "http://www.un.org",
+      "website": "http://www.un.org",
+      "industry": "International Affairs",
+      "type": "Nonprofit",
+      "headquarters": "UN Headquarters\n\nNew York,\nNY\n10017\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1945",
+      "address": "UN Headquarters  New York, NY 10017 United States"
+    },
+    {
+      "title": "Director de Sistemas",
+      "company": "Aztek Technologies",
+      "description": "Gestión de sistemas y oersonal",
+      "duration": "5 años 1 mes",
+      "start_date": null
+    },
+    {
+      "title": "Desarrollador",
+      "company": "Universidad Anahuac",
+      "description": "Desarrollo de aplicaciones webRedesServidores",
+      "duration": "3 años 1 mes",
+      "start_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/universidad-anahuac_50453?trk=ppro_cprof",
+      "url": "http://www.anahuac.mx",
+      "website": "http://www.anahuac.mx",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "Mexico",
+      "company_size": "501-1000 employees",
+      "founded": "1964",
+      "address": "Mexico"
+    }
   ],
   "current_companies": [
 
   ],
   "recommended_visitors": [
     {
-      "link": "https://www.linkedin.com/in/esmeraldaacevedo?trk=pub-pbmap",
-      "name": "Esmeralda Acevedo",
-      "title": "Bilingual Assistant",
+      "link": "https://mx.linkedin.com/in/leonardo-miron-20328762?trk=pub-pbmap",
+      "name": "Leonardo Miron",
+      "title": "CEO",
+      "company": "HolaGus"
+    },
+    {
+      "link": "https://mx.linkedin.com/in/jose-gabriel-islas-montero-98336336?trk=pub-pbmap",
+      "name": "Jose Gabriel Islas Montero"
+    },
+    {
+      "link": "https://mx.linkedin.com/in/domix?trk=pub-pbmap",
+      "name": "Domingo Suarez Torres",
+      "title": "Designer and writer of Software",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/veronica-olea-6a6069a?trk=pub-pbmap",
-      "name": "Veronica Olea",
-      "title": "Asistente Ejecutiva Bilingue de Dirección General en Anuncios en Directorios - Seccion Amarilla-ADSA",
+      "link": "https://mx.linkedin.com/in/acidventure?trk=pub-pbmap",
+      "name": "J. Rodrigo Ayala Caballero",
+      "title": "Director general - ComproPago",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/carolina-s%C3%A1nchez-ram%C3%ADrez-24a33494?trk=pub-pbmap",
-      "name": "Carolina Sánchez Ramírez",
-      "title": "Marketing",
+      "link": "https://mx.linkedin.com/in/ariadnagomezdessavre?trk=pub-pbmap",
+      "name": "Ariadna Gomez Dessavre",
+      "title": "CEO & Founder en Globalizer",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/carlostoxtli?trk=pub-pbmap",
-      "name": "Carlos Toxtli",
-      "title": "Senior Full Stack Developer, Bot Developer, Master of technological innovation, CTO, CEO, Entrepreneur",
+      "link": "https://mx.linkedin.com/in/daniela-merino-2381463a?trk=pub-pbmap",
+      "name": "Daniela Merino",
+      "title": "Sr Talent Attraction Consultant Mexico & LATAM",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/mariana-rivera-campos-1571aa58?trk=pub-pbmap",
-      "name": "mariana rivera campos",
-      "title": "Asistente de Dirección- Merz Pharma de México",
+      "link": "https://mx.linkedin.com/in/marcusdantus?trk=pub-pbmap",
+      "name": "Marcus Dantus",
+      "title": "CEO",
+      "company": "Startup Mexico"
+    },
+    {
+      "link": "https://mx.linkedin.com/in/dalet-cabrera-291a9a6a?trk=pub-pbmap",
+      "name": "Dalet Cabrera",
+      "title": "RECLUTAMIENTO Y SELECCIÓN en TECNOLOGIA GMI",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/m%C3%B3nica-jim%C3%A9nez-s%C3%A1nchez-7481a5a?trk=pub-pbmap",
-      "name": "Mónica Jiménez Sánchez",
-      "title": "Asistente de Dirección General en OCESA - SeiTrack",
+      "link": "https://mx.linkedin.com/in/lucila-escoto-50078264?trk=pub-pbmap",
+      "name": "Lucila Escoto",
+      "title": "Coordinador de Reclutamiento para PROINVER",
       "company": null
     },
     {
-      "link": "https://www.linkedin.com/in/leslie-monta%C3%B1o-sollano-ba076624?trk=pub-pbmap",
-      "name": "Leslie Montaño Sollano",
-      "title": "Gerente Corporativo de Mercadotecnia y Publicidad en GIM / Hogares Unión",
-      "company": null
-    },
-    {
-      "link": "https://www.linkedin.com/in/rodrigo-cruz-jaramillo-92208280?trk=pub-pbmap",
-      "name": "Rodrigo Cruz Jaramillo",
-      "title": "Jefe de Comunicación Interna en ATENTO México",
-      "company": null
-    },
-    {
-      "link": "https://www.linkedin.com/in/abraham-montes-de-oca-2a503822?trk=pub-pbmap",
-      "name": "abraham montes de oca",
-      "title": "Licenciado en Mercadotecnia",
-      "company": null
-    },
-    {
-      "link": "https://www.linkedin.com/in/carolina-mora-54895433?trk=pub-pbmap",
-      "name": "Carolina Mora",
-      "title": "--",
-      "company": null
+      "link": "https://mx.linkedin.com/in/blanca-trevino-27065735?trk=pub-pbmap",
+      "name": "Blanca Trevino",
+      "title": "President and CEO",
+      "company": "Softtek"
     }
   ]
 }
