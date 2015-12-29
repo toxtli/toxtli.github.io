@@ -6,6 +6,7 @@ html, body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: rgba(30, 34, 37, 1);
+	background-color: rgba(245, 246, 246, 1);
 }
 
 #Application {
@@ -16,9 +17,11 @@ html, body {
 	position: relative;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	padding-top: 10px;
 	padding-bottom: 10px;
 	width: 80%;
 	left: 10%;
+	background-color: rgba(255, 255, 255, 1);
 	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
 
