@@ -33,16 +33,6 @@
                         <div class="Section_Field">{{item.period}}</div>
                     </div>
                 </div>
-                <div ng-if="data.projects" class="Section">
-                    <div class="Section_Title">
-                        Projects
-                    </div>
-                    <div class="Section_Item" ng-repeat="item in data.projects">
-                        <div class="Section_Main">{{item.title}}</div>
-                        <div class="Section_Field">{{item.description}}</div>
-                        <div class="Section_Field">{{item.link}}</div>
-                    </div>
-                </div>
                 <div ng-if="data.current_companies" class="Section">
                     <div class="Section_Title">
                         Current Companies
@@ -79,6 +69,16 @@
                     </div>
                     <div class="Section_Item" ng-repeat="item in data.websites">
                         <div class="Section_Main">{{item}}</div>
+                    </div>
+                </div>
+                <div ng-if="data.projects" class="Section">
+                    <div class="Section_Title">
+                        Projects
+                    </div>
+                    <div class="Section_Item" ng-repeat="item in data.projects">
+                        <div class="Section_Main">{{item.title}}</div>
+                        <div class="Section_Field">{{item.description}}</div>
+                        <div class="Section_Field">{{item.link}}</div>
                     </div>
                 </div>
                 <div ng-if="data.languages" class="Section">
