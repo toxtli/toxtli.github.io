@@ -3,11 +3,11 @@
   "first_name": "Carlos",
   "last_name": "Toxtli",
   "title": "Senior Full Stack Developer, Bot Developer, Master of technological innovation, CTO, CEO, Entrepreneur",
-  "location": "Ciudad de México y alrededores",
-  "number_of_connections": "500",
-  "country": "México",
-  "industry": "Servicios y tecnologías de la información",
-  "summary": "Gratificante y siempre con buenos resultados y buena actitud",
+  "location": "San Francisco Bay Area",
+  "number_of_connections": "500+",
+  "country": "San Francisco Bay Area",
+  "industry": "Information Technology and Services",
+  "summary": null,
   "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUrAAAAJDM4YzQ2ZjUyLThhYjMtNDExYS1hZTNmLWMyY2FmN2U2OWYwMQ.jpg",
   "projects": [
     {
@@ -102,7 +102,7 @@
       ]
     }
   ],
-  "linkedin_url": "https://mx.linkedin.com/in/carlostoxtli",
+  "linkedin_url": "https://www.linkedin.com/in/toxtli",
   "education": [
     {
       "name": "West Virginia University",
@@ -152,44 +152,66 @@
   ],
   "groups": [
     {
-      "name": "Reuniones de Networking Estratégico",
-      "link": "https://mx.linkedin.com/groups?gid=3905066&trk=prof-groups-membership-name"
-    },
-    {
       "name": "RECURSOS HUMANOS MÉXICO AERHBB",
-      "link": "https://mx.linkedin.com/groups?gid=4050718&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "PR Digital México",
-      "link": "https://mx.linkedin.com/groups?gid=3850030&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Profesionales en Tecnología México",
-      "link": "https://mx.linkedin.com/groups?gid=7483690&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
-      "link": "https://mx.linkedin.com/groups?gid=2120377&trk=prof-groups-membership-name"
-    },
-    {
-      "name": "ATRACCION DE TALENTO",
-      "link": "https://mx.linkedin.com/groups?gid=1496687&trk=prof-groups-membership-name"
+      "link": "https://www.linkedin.com/groups?gid=4050718&trk=prof-groups-membership-name"
     },
     {
       "name": "Empleos de TI México - Ofertas de trabajo para Perfiles de Tecnología",
-      "link": "https://mx.linkedin.com/groups?gid=1076057&trk=prof-groups-membership-name"
+      "link": "https://www.linkedin.com/groups?gid=1076057&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Mexican Professionals",
+      "link": "https://www.linkedin.com/groups?gid=39274&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "VC - Venture Capitalists, Founders, Entrepreneurs, Innovators, Startups, Advisors, Consultants",
+      "link": "https://www.linkedin.com/groups?gid=2294921&trk=prof-groups-membership-name"
     },
     {
       "name": ".NET People",
-      "link": "https://mx.linkedin.com/groups?gid=40717&trk=prof-groups-membership-name"
+      "link": "https://www.linkedin.com/groups?gid=40717&trk=prof-groups-membership-name"
     },
     {
-      "name": "Lead Overview",
-      "link": "https://mx.linkedin.com/groups?gid=4817204&trk=prof-groups-membership-name"
+      "name": "Digital Marketing",
+      "link": "https://www.linkedin.com/groups?gid=62352&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Reuniones de Networking Estratégico",
+      "link": "https://www.linkedin.com/groups?gid=3905066&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "PR Digital México",
+      "link": "https://www.linkedin.com/groups?gid=3850030&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Head Hunter Mexico HeadHunter",
+      "link": "https://www.linkedin.com/groups?gid=3004409&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Profesionales en Tecnología México",
+      "link": "https://www.linkedin.com/groups?gid=7483690&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+      "link": "https://www.linkedin.com/groups?gid=2120377&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "ATRACCION DE TALENTO",
+      "link": "https://www.linkedin.com/groups?gid=1496687&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Founders Under 40™",
+      "link": "https://www.linkedin.com/groups?gid=55194&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "IT Recruiters",
+      "link": "https://www.linkedin.com/groups?gid=42141&trk=prof-groups-membership-name"
     }
   ],
   "websites": [
-
+    "https://github.com/toxtli",
+    "http://www.carlostoxtli.com",
+    "http://www.google.com"
   ],
   "languages": [
 
@@ -210,7 +232,7 @@
     "PHP",
     "Java",
     "Python",
-    "Ver 35 más",
+    "See 35+",
     "MySQL",
     "Oracle",
     "Linux",
@@ -246,7 +268,7 @@
     "Mobile Product Development",
     "Computer Vision",
     "Augmented Reality",
-    "Ver menos"
+    "See less"
   ],
   "certifications": [
 
@@ -256,79 +278,11 @@
   ],
   "past_companies": [
     {
-      "title": "Cofounder",
-      "company": "ComproPago",
-      "duration": "2 años 8 meses",
-      "start_date": null,
-      "linkedin_company_url": "https://www.linkedin.com/company/compropago?trk=ppro_cprof",
-      "url": "http://www.compropago.com",
-      "website": "http://www.compropago.com",
-      "industry": "Financial Services",
-      "type": "Sole Proprietorship",
-      "company_size": "1-10 employees",
-      "founded": "2013"
-    },
-    {
-      "title": "CTO",
-      "company": "HolaGus",
-      "duration": "4 meses",
-      "start_date": null,
-      "linkedin_company_url": "https://www.linkedin.com/company/gus-servicios-tecnologicos?trk=ppro_cprof",
-      "url": "http://www.holagus.com",
-      "website": "http://www.holagus.com",
-      "industry": "Internet",
-      "type": "Privately Held",
-      "company_size": "11-50 employees",
-      "founded": "2015"
-    },
-    {
-      "title": "Technical Solutions Specialist",
-      "company": "Google",
-      "duration": "3 meses",
-      "start_date": null,
-      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
-      "url": "http://www.google.com",
-      "website": "http://www.google.com",
-      "industry": "Internet",
-      "type": "Public Company",
-      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
-      "company_size": "10,001+ employees",
-      "founded": "1998",
-      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
-    },
-    {
-      "title": "Research Scholar",
-      "company": "West Virginia University",
-      "duration": "2 meses",
-      "start_date": null,
-      "linkedin_company_url": "https://www.linkedin.com/company/west-virginia-university?trk=ppro_cprof",
-      "url": "http://www.wvu.edu",
-      "website": "http://www.wvu.edu",
-      "industry": "Higher Education",
-      "type": "Educational Institution",
-      "headquarters": "PO Box 6201\n\nMorgantown,\nWV\n26506\nUnited States",
-      "company_size": "5001-10,000 employees",
-      "founded": "1867",
-      "address": "PO Box 6201  Morgantown, WV 26506 United States"
-    },
-    {
-      "title": "CTO & Co-founder",
-      "company": "Globalizer",
-      "duration": "6 meses",
-      "start_date": null,
-      "linkedin_company_url": "https://www.linkedin.com/company/globalizer?trk=ppro_cprof",
-      "url": "http://globalizer.io/",
-      "website": "http://globalizer.io/",
-      "industry": "Consumer Goods",
-      "type": "Sole Proprietorship",
-      "company_size": "1-10 employees",
-      "founded": "2015"
-    },
-    {
       "title": "Technical Program Manager",
       "company": "Google",
-      "duration": "1 año 6 meses",
-      "start_date": "2015-06-01",
+      "duration": "1 year 6 months",
+      "start_date": "2014-01-01",
+      "end_date": "2015-06-01",
       "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
       "url": "http://www.google.com",
       "website": "http://www.google.com",
@@ -343,8 +297,9 @@
       "title": "Webmaster",
       "company": "United Nations",
       "description": "Mantenimiento de servidoresRedesSeguridadDesarrollo de aplicaciones webMonitoreo.Análisis de tráficoDesarrollo de páginas web.",
-      "duration": "2 años 1 mes",
-      "start_date": null,
+      "duration": "2 years 1 month",
+      "start_date": "2011-08-01",
+      "end_date": "2013-08-02",
       "linkedin_company_url": "https://www.linkedin.com/company/united-nations?trk=ppro_cprof",
       "url": "http://www.un.org",
       "website": "http://www.un.org",
@@ -359,15 +314,17 @@
       "title": "Director de Sistemas",
       "company": "Aztek Technologies",
       "description": "Gestión de sistemas y oersonal",
-      "duration": "5 años 1 mes",
-      "start_date": null
+      "duration": "5 years 1 month",
+      "start_date": "2006-01-01",
+      "end_date": "2011-01-05"
     },
     {
       "title": "Desarrollador",
       "company": "Universidad Anahuac",
       "description": "Desarrollo de aplicaciones webRedesServidores",
-      "duration": "3 años 1 mes",
-      "start_date": null,
+      "duration": "3 years 1 month",
+      "start_date": "2002-01-01",
+      "end_date": "2005-01-03",
       "linkedin_company_url": "https://www.linkedin.com/company/universidad-anahuac_50453?trk=ppro_cprof",
       "url": "http://www.anahuac.mx",
       "website": "http://www.anahuac.mx",
@@ -380,66 +337,141 @@
     }
   ],
   "current_companies": [
-
+    {
+      "title": "Cofounder",
+      "company": "ComproPago",
+      "duration": "2 years 11 months",
+      "start_date": "2013-05-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/compropago?trk=ppro_cprof",
+      "url": "http://www.compropago.com",
+      "website": "http://www.compropago.com",
+      "industry": "Financial Services",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2013"
+    },
+    {
+      "title": "CTO",
+      "company": "HolaGus",
+      "duration": "7 months",
+      "start_date": "2015-09-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/gus-servicios-tecnologicos?trk=ppro_cprof",
+      "url": "http://www.holagus.com",
+      "website": "http://www.holagus.com",
+      "industry": "Internet",
+      "type": "Privately Held",
+      "company_size": "11-50 employees",
+      "founded": "2015"
+    },
+    {
+      "title": "Technical Solutions Specialist",
+      "company": "Google",
+      "duration": "6 months",
+      "start_date": "2015-10-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof",
+      "url": "http://www.google.com",
+      "website": "http://www.google.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "1600 Amphitheatre Parkway\n\nMountain View,\nCA\n94043\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "1600 Amphitheatre Parkway  Mountain View, CA 94043 United States"
+    },
+    {
+      "title": "Research Scholar",
+      "company": "West Virginia University",
+      "duration": "5 months",
+      "start_date": "2015-11-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/west-virginia-university?trk=ppro_cprof",
+      "url": "http://www.wvu.edu",
+      "website": "http://www.wvu.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "PO Box 6201\n\nMorgantown,\nWV\n26506\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "founded": "1867",
+      "address": "PO Box 6201  Morgantown, WV 26506 United States"
+    },
+    {
+      "title": "CTO & Co-founder",
+      "company": "Globalizer",
+      "duration": "9 months",
+      "start_date": "2015-07-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/globalizer?trk=ppro_cprof",
+      "url": "http://globalizer.io/",
+      "website": "http://globalizer.io/",
+      "industry": "Consumer Goods",
+      "type": "Sole Proprietorship",
+      "company_size": "1-10 employees",
+      "founded": "2015"
+    }
   ],
   "recommended_visitors": [
     {
-      "link": "https://mx.linkedin.com/in/leonardo-miron-20328762?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/leonardo-miron-20328762?trk=pub-pbmap",
       "name": "Leonardo Miron",
-      "title": "CEO",
+      "title": "Co-founder",
       "company": "HolaGus"
     },
     {
-      "link": "https://mx.linkedin.com/in/jose-gabriel-islas-montero-98336336?trk=pub-pbmap",
-      "name": "Jose Gabriel Islas Montero"
+      "link": "https://www.linkedin.com/in/ricardo-vaca-dom%C3%ADnguez-32bb8792?trk=pub-pbmap",
+      "name": "Ricardo Vaca Domínguez",
+      "title": "COO en HolaGus",
+      "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/domix?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/domix?trk=pub-pbmap",
       "name": "Domingo Suarez Torres",
       "title": "Designer and writer of Software",
       "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/acidventure?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/acidventure?trk=pub-pbmap",
       "name": "J. Rodrigo Ayala Caballero",
       "title": "Director general - ComproPago",
       "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/ariadnagomezdessavre?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/brendalando?trk=pub-pbmap",
+      "name": "Brenda Lando",
+      "title": "Head of SMB Mexico & Central America",
+      "company": "Google"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ariadnagomezdessavre?trk=pub-pbmap",
       "name": "Ariadna Gomez Dessavre",
       "title": "CEO & Founder en Globalizer",
       "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/daniela-merino-2381463a?trk=pub-pbmap",
-      "name": "Daniela Merino",
-      "title": "Sr Talent Attraction Consultant Mexico & LATAM",
+      "link": "https://www.linkedin.com/in/jaime-navarro-01a13034?trk=pub-pbmap",
+      "name": "Jaime Navarro",
+      "title": "CEO & Co-Founder en HolaGus",
       "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/marcusdantus?trk=pub-pbmap",
-      "name": "Marcus Dantus",
-      "title": "CEO",
-      "company": "Startup Mexico"
+      "link": "https://www.linkedin.com/in/pablo-estevez-hinojosa-5b8bb2b2?trk=pub-pbmap",
+      "name": "Pablo Estevez Hinojosa",
+      "title": "Co Founder",
+      "company": "Gus Servicios Technologicos SAPI de CV"
     },
     {
-      "link": "https://mx.linkedin.com/in/dalet-cabrera-291a9a6a?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/dalet-cabrera-291a9a6a?trk=pub-pbmap",
       "name": "Dalet Cabrera",
       "title": "RECLUTAMIENTO Y SELECCIÓN en TECNOLOGIA GMI",
       "company": null
     },
     {
-      "link": "https://mx.linkedin.com/in/lucila-escoto-50078264?trk=pub-pbmap",
+      "link": "https://www.linkedin.com/in/lucila-escoto-50078264?trk=pub-pbmap",
       "name": "Lucila Escoto",
       "title": "Coordinador de Reclutamiento para PROINVER",
       "company": null
-    },
-    {
-      "link": "https://mx.linkedin.com/in/blanca-trevino-27065735?trk=pub-pbmap",
-      "name": "Blanca Trevino",
-      "title": "President and CEO",
-      "company": "Softtek"
     }
   ]
 }
