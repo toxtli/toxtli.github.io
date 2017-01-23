@@ -16,9 +16,9 @@ html, body {
 
 .Container {
 	position: relative;
-	margin-top: 20px;
+	margin-top: 40px;
 	margin-bottom: 20px;
-	padding-top: 10px;
+	padding-top: 20px;
 	padding-bottom: 10px;
 	width: 80%;
 	left: 10%;
@@ -121,4 +121,70 @@ html, body {
 
 .Section_Tag {
 
+}
+
+.Ribbon {
+	position: absolute; 
+	top: 60px; 
+	right: 0; 
+	border: 0;
+}
+
+.Card_Container {
+
+}
+
+.Card {
+	padding-left: 2%;
+	padding-right: 1%;
+	width: 30%;
+	display: inline-block;
+}
+
+.Card_Description {
+	overflow: hidden;
+    text-overflow: ellipsis;
+	max-height: 70px;
+}
+
+.Card_Image {
+	position: relative;
+	display: block;
+	width:100%;
+	height: 250px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	filter: contrast(1);
+}
+
+.Card_Image.animated {
+  -webkit-animation: filter-animation 5s infinite;
+}
+
+@-webkit-keyframes filter-animation {
+  0% {
+    -webkit-filter: contrast(1);
+  }
+  
+  50% {
+    -webkit-filter: contrast(2);
+  }
+  
+  100% {
+    -webkit-filter: contrast(1);
+  }
+}
+
+.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+  color: white; }
+
+.Top_Container {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+.Fixed {
+	 position:fixed !important
 }
