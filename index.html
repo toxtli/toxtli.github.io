@@ -28,6 +28,17 @@
                 $("#content").html(response);
                 $("#content #footer").remove();
                 $("#content #header").remove();
+                
+                let urlRegex = /https:\/\/www\.google\.com\/url\?q=(.*)&sa(.*)/;
+                $('#content a').each((i,el)=>{
+                    let url = $(el).attr("href");
+                    if (url) {
+                        let matches = url.match(urlRegex);
+                        if (matches && matches.length == 3) {
+                            $(el).attr('target', '_blank').attr('href', matches[1]);
+                        }
+                    }
+                });
             });
         </script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
