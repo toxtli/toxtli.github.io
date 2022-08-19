@@ -1,11 +1,136 @@
-<!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>CPSC-2120</title>
-</head>
-<body>
-  CPSC-2120
-</body>
+    <head>
+	<!-- Start setup -->
+        <title>DSA Fall 2022</title>
+	<script>
+	  var googleDocsUrl = "https://docs.google.com/document/d/e/2PACX-1vRVp9hU3SFkDDmD1FgVkYPKJx5Tho3WDYdxYwutzbZSWUtKStqkU3NN6avF8uTghY48hounPTdmPZTo/pub";
+	  var gTagId = "UA-90861913-1";
+	  var sc_project=11706293; 
+          var sc_invisible=1; 
+          var sc_security="d809fc4a"; 
+	</script>
+	<!-- End setup -->
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <style type="text/css">
+            body, html {
+                paddding: 0px;
+                margin: 0px;
+                width: 100%;
+                height: 100%;
+            }
+            #content {
+                width: calc(100% - 100px);
+                height: 100%;
+                margin: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="content">
+
+		
+		
+        </div>
+        <script>
+            $.get(googleDocsUrl, function(response){
+                $("#content").html(response);
+                $("#banners").remove();
+                $("#content #footer").remove();
+                $("#content #header").remove();
+                
+                let urlRegex = /https:\/\/www\.google\.com\/url\?q=(.*)&sa(.*)/;
+                $('#content a').each((i,el)=>{
+                    let url = $(el).attr("href");
+                    if (url) {
+                        let matches = url.match(urlRegex);
+                        if (matches && matches.length == 3) {
+                            $(el).attr('target', '_blank').attr('href', matches[1]);
+                        }
+                    }
+                });
+            });
+        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90861913-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', gTagId);
+        </script>
+        <!-- Google Analytics -->
+        <script>
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+            ga('create', gTagId, 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- End Google Analytics -->
+	    
+        <script>
+            (function(h,e,a,t,m,p) {
+            m=e.createElement(a);m.async=!0;m.src=t;
+            p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+            })(window,document,'script','https://u.heatmap.it/log.js');
+        </script>
+	    
+        <div class="textwidget"><canvas id="myCanvas" width="100" height="100"  visibility="visible" ; style="border:0px solid #000000; " >
+            <!--<script type="text/javascript" src="http://feedjit.com/serve/?vv=1515&amp;tft=3&amp;dd=0&amp;wid=&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=200&amp;went=10"></script><noscript><a href="http://feedjit.com/">Live Traffic Stats</a></noscript>-->
+            <p style="font-family: verdana;font-size: 12px;color: #333333;text-decoration: none;" ><a alt="Map IP Address" href="https://www.ip2map.com"><img border="0" alt="Map IP Address" src="https://www.ip2map.com/ip2map.gif"></a><br>Powered by <a alt="IP Address" href="https://www.ip2location.com" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;color: #0066CC;text-decoration: underline;">IP2Location.com</a></p>
+            <a title="Real Time Web Analytics" href="http://clicky.com/101116675"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+            <script src="//static.getclicky.com/js" type="text/javascript"></script>
+            <script type="text/javascript">try{ clicky.init(101116675); }catch(e){}</script>
+            <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101116675ns.gif" /></p></noscript>
+            <!-- Default Statcounter code for Carlos Toxtli Website
+            http://www.carlostoxtli.com -->
+            <script type="text/javascript"
+            src="https://www.statcounter.com/counter/counter.js"
+            async></script>
+            <noscript><div class="statcounter"><a title="web statistics"
+            href="http://statcounter.com/" target="_blank"><img
+            class="statcounter"
+            src="//c.statcounter.com/11706293/0/d809fc4a/1/" alt="web
+            statistics"></a></div></noscript>
+            <!-- End of Statcounter Code -->
+        </canvas></div>
+	    
+        <!-- Hotjar Tracking Code for https://www.carlostoxtli.com -->
+        <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1453768,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+           ym(85793796, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:true
+           });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/85793796" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+       
+    </body>
 </html>
