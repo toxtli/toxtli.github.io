@@ -32,6 +32,11 @@ const CONFIG = {
     // Friendly relabelling for the navigation.
     navLabels: { 'bio': 'About', 'artificial intelligence portfolio': 'AI Portfolio',
                  'academic and professional projects': 'Projects' },
+
+    // Display order, independent of the Google Doc. Sections listed here are
+    // placed first, in this order (matched by section title or nav label,
+    // case-insensitive); any section not listed keeps its original doc order.
+    sectionOrder: ['About', 'Publications', 'Grants & Funding', 'Education'],
 };
 
 /* ------------------------------- Icon set -------------------------------- */
@@ -211,6 +216,23 @@ async function load() {
     }
 }
 
+/** Reorder sections per CONFIG.sectionOrder. Listed sections come first in the
+ *  given order; the rest keep their original document order (stable sort). */
+function orderSections(sections) {
+    const order = (CONFIG.sectionOrder || []).map((s) => s.toLowerCase());
+    if (!order.length) return sections;
+    const rankOf = (sec) => {
+        const key = sec.title.toLowerCase();
+        const label = (CONFIG.navLabels[key] || sec.title).toLowerCase();
+        const r = order.indexOf(key) !== -1 ? order.indexOf(key) : order.indexOf(label);
+        return r === -1 ? Infinity : r;
+    };
+    return sections
+        .map((sec, i) => ({ sec, i }))
+        .sort((a, b) => (rankOf(a.sec) - rankOf(b.sec)) || (a.i - b.i))
+        .map((x) => x.sec);
+}
+
 function render(html) {
     const doc = new DOMParser().parseFromString(html, 'text/html');
     // Google Docs ships its rules across multiple <style> blocks — concatenate
@@ -253,7 +275,7 @@ function render(html) {
     contentEl.innerHTML = '';
     const navItems = [];
 
-    sections.forEach((sec, i) => {
+    orderSections(sections).forEach((sec, i) => {
         const key = sec.title.toLowerCase();
         if (CONFIG.skipSections.includes(key)) return;
         if (!sec.nodes.length) return;
