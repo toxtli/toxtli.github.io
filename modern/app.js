@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------- */
 const CONFIG = {
     // Published Google Doc (File ▸ Share ▸ Publish to the web ▸ link).
-    docUrl: 'https://docs.google.com/document/d/e/2PACX-1vRzOcmxi_cktmaHhyNufzci3c27HYIeAy3Zep026Va6PFbnpXIAzs6WDkHNoyjuLWuo1DtZEM0GTCMm/pub',
+    docUrl: 'https://docs.google.com/document/d/e/2PACX-1vRHNwLVVLO8rNZVzNOos8r1bav8k2CDDkv1wXrz7hS5XTvrShOpoq3R1axgGUR7MShB0M90t3OKczKD/pub',
 
     role: 'Assistant Professor of Human-Centered Computing',
     affiliationUni: 'Clemson University',
@@ -53,6 +53,8 @@ const ICONS = (() => {
         projects: s('<path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/>'),
         service:  s('<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8z"/>'),
         hobbies:  s('<circle cx="12" cy="12" r="9"/><path d="M8.5 14.5s1.5 2 3.5 2 3.5-2 3.5-2M9 9h.01M15 9h.01"/>'),
+        funding:  s('<circle cx="12" cy="12" r="9"/><path d="M12 7v10M14.5 9.3c-.5-.8-1.5-1.3-2.6-1.3-1.4 0-2.4.8-2.4 1.9 0 2.5 5 1.2 5 3.8 0 1.1-1.1 1.9-2.6 1.9-1.1 0-2.1-.5-2.6-1.3"/>'),
+        patents:  s('<path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4"/><circle cx="12" cy="13" r="2.2"/><path d="M12 15.2V19l-1.6-1-1.6 1"/>'),
         default:  s('<circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="9"/>'),
         // socials (filled / branded)
         mail:     s('<rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/>'),
@@ -78,6 +80,8 @@ const SECTION_ICON = {
     'publications': 'publications', 'demos': 'demos', 'talks': 'talks',
     'press': 'press', 'academic and professional projects': 'projects',
     'service': 'service', 'hobbies': 'hobbies',
+    'grants': 'funding', 'funding': 'funding', 'grants & funding': 'funding',
+    'grants and funding': 'funding', 'research funding': 'funding', 'patents': 'patents',
 };
 
 const SOCIAL_ICON = [
@@ -178,15 +182,18 @@ function cleanNode(node, emphasis) {
 /** Remove the trailing "‹ MENU" back-links Google Docs leaves in each section,
  *  plus the empty paragraphs that surround them. */
 function stripMenuLinks(node) {
+    const isMenuMarker = (s) => /^[‹<«]?\s*menu\s*$/i.test(s.trim());
     node.querySelectorAll('a').forEach((a) => {
-        const t = a.textContent.trim();
-        if (/^[‹<«]?\s*menu\s*$/i.test(t) || /^#h\./.test(a.getAttribute('href') || '')) {
+        if (isMenuMarker(a.textContent) || /^#h\./.test(a.getAttribute('href') || '')) {
             const p = a.closest('p, li');
             (p || a).remove();
         }
     });
-    // Drop now-empty paragraphs.
-    node.querySelectorAll('p').forEach((p) => { if (!p.textContent.trim() && !p.querySelector('img')) p.remove(); });
+    // Drop plain-text "‹ MENU" back-links (not hyperlinked) and empty paragraphs.
+    node.querySelectorAll('p, li').forEach((el) => {
+        const t = el.textContent.trim();
+        if (isMenuMarker(t) || (!t && !el.querySelector('img'))) el.remove();
+    });
 }
 
 /* ------------------------------ Core render ------------------------------ */
