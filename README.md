@@ -1,14 +1,55 @@
-# Carlos Toxtli Hernandez website
-This is my personal website hosted in GitHub Pages.
+# Carlos Toxtli Hernández — personal website
 
-## How I did it?
+Hosted on GitHub Pages at **[www.carlostoxtli.com](https://www.carlostoxtli.com)**.
 
-I decided to update my CV from a Google Docs document, so I linked the public web URL from Google Docs and retrieved the HTML content via an AJAX call. This is a very simple integration but makes my life easier. I recommend people to do it, is pretty convenient.
+The content is authored in a **published Google Doc** and rendered live in the
+browser, so updating the Doc updates the site — no rebuild required.
 
-## Dynamic version
+## Layout
 
-I know that the flat format is not very attractive, this is why I developed a tool that is able to turn any Google Docs document into a modern website. You can try it in this URL: http://www.carlostoxtli.com/docs2web/ .
+| Path         | What it is                                                            |
+|--------------|-----------------------------------------------------------------------|
+| `/`          | **Modern interface** (default) — `index.html` + `styles.css` + `app.js` |
+| `/classic/`  | The original flat version (kept for posterity)                        |
+| `/modern/`   | Redirects to `/` (the modern site used to live here)                  |
+| `/cv/`, `/courses/` | PDFs and course pages                                          |
+| `/tools/`    | A Google Apps Script helper to sync new work into the Doc (not deployed) |
 
-Take a look to my resume using the tool http://www.carlostoxtli.com/docs2web/#url=https://docs.google.com/document/d/e/2PACX-1vRzOcmxi_cktmaHhyNufzci3c27HYIeAy3Zep026Va6PFbnpXIAzs6WDkHNoyjuLWuo1DtZEM0GTCMm/pub
+## How the modern site works
 
-I also want to encourage people to contribute to that tool, we can do something great together.
+`app.js` fetches the published Google Doc, parses it with `DOMParser`, strips
+Google's layout markup (while preserving bold/italic and unwrapping redirect
+links), splits it into sections at each heading, and renders them in a
+responsive academic layout with a scroll-spy sidebar, light/dark mode, and SEO
+structured data.
+
+Configuration lives in the `CONFIG` object at the top of `app.js`:
+
+- `docUrl` — the published Google Doc that supplies the content
+- `role`, `affiliationUni`, `lab`, `tagline`, `photo` — sidebar identity
+- `navLabels` — friendly section relabelling
+- `sectionOrder` — display order, independent of the Doc
+
+## Updating content
+
+- **Edit the Google Doc** — the site reflects changes within a few minutes.
+- **Pull new work from Clemson Academic Analytics** — run
+  `tools/update-google-doc.gs` once from [script.google.com](https://script.google.com)
+  (it uses Google's `DocumentApp` API; idempotent). It is intentionally not
+  committed to the deployed site (`*.gs` is git-ignored).
+
+## Running locally
+
+Must be served over HTTP (a `file://` origin can't fetch the Doc):
+
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000/
+```
+
+## Origins
+
+The site began as a flat page that simply AJAX-loaded a published Google Doc —
+a very convenient way to keep a CV in sync (that version still lives under
+[`/classic/`](https://www.carlostoxtli.com/classic/)). The modern interface
+re-presents the same Google Doc content in a polished, professional layout.
